@@ -55,3 +55,9 @@ Snowflake – Data Staging
 Pandas – Data exploration, visualizations, Prediction Modelling, Analysis of RFM and Customer Lifetime Value
 
 Einstein Analytics – Interactive Visualizations / Creating Dashboards
+
+#### Salesforce Dashboards
+
+
+![InstacartVideo](https://user-images.githubusercontent.com/59594174/84546697-e3e70f80-accf-11ea-9d4a-251c613fdc56.PNG)
+
