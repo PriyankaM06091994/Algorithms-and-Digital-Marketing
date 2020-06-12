@@ -44,6 +44,6 @@ Trifacta – Data Wrangling
 
 Snowflake – Data Staging
 
-Pandas – Data exploration and visualizations
+Pandas – Data exploration, visualizations, Prediction Modelling, Analysis of RFM and Customer Lifetime Value
 
 Einstein Analytics – Interactive Visualizations / Creating Dashboards 
