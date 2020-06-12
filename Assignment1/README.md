@@ -44,6 +44,9 @@ How- The company has a challenge using large scale datasets.
 To use tools like XSV,Trifacta,Snowflake,Salesforce Einstein Analytics and Python. 
 
 
+![Capture](https://user-images.githubusercontent.com/59594174/84547477-a1263700-acd1-11ea-835f-8240b9c5ac2e.PNG)
+
+
 #### Description
 
 XSV – Preprocessing Data
