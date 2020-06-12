@@ -25,6 +25,6 @@ Trifacta – Data Wrangling
 
 Snowflake – Data Staging
 
-Pandas – Data exploration visualization
+Pandas – Data exploration and visualizations
 
 Einstein Analytics – Interactive Visualizations / Creating Dashboards 
