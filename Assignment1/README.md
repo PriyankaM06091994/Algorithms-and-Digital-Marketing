@@ -56,8 +56,18 @@ Pandas – Data exploration, visualizations, Prediction Modelling, Analysis of R
 
 Einstein Analytics – Interactive Visualizations / Creating Dashboards
 
-#### Salesforce Dashboards
+### Salesforce Dashboards
 
+#### Onboarding Feature
 
 ![InstacartVideo](https://user-images.githubusercontent.com/59594174/84546697-e3e70f80-accf-11ea-9d4a-251c613fdc56.PNG)
+
+#### Products Dashboard
+
+![Products_Dashboard](https://user-images.githubusercontent.com/59594174/84546714-e9445a00-accf-11ea-98e6-d94fb2daaa88.png)
+
+#### Insights Dashboards
+
+![Insights_Dashboard](https://user-images.githubusercontent.com/59594174/84546725-f2352b80-accf-11ea-97f6-ba314c8e1150.png)
+
 
