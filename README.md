@@ -16,3 +16,15 @@ https://codelabs-preview.appspot.com/?file_id=1SKxlI6y-X65zH0lmVIVqLOL_kvD5cUYwJ
 
 #### Google Docs Link
 https://docs.google.com/document/d/1SKxlI6y-X65zH0lmVIVqLOL_kvD5cUYwJsmW4FJhymc/edit#heading=h.52s7maiu0fxv
+
+#### Description
+
+XSV – Preprocessing Data
+
+Trifacta – Data Wrangling
+
+Snowflake – Data Staging
+
+Pandas – Data exploration visualization
+
+Einstein Analytics – Interactive Visualizations / Creating Dashboards 
