@@ -1,6 +1,6 @@
 # Algorithms-and-Digital-Marketing
 
-Every Assignemnt has it's own ReadMe for detailed explanation.
+## Every Assignemnt has it's own ReadMe for detailed explanation.
 
 #### Team Information
 
