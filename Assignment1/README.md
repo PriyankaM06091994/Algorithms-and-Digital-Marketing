@@ -17,8 +17,16 @@ https://codelabs-preview.appspot.com/?file_id=1SKxlI6y-X65zH0lmVIVqLOL_kvD5cUYwJ
 #### Google Docs Link
 https://docs.google.com/document/d/1SKxlI6y-X65zH0lmVIVqLOL_kvD5cUYwJsmW4FJhymc/edit#heading=h.52s7maiu0fxv
 
-#### Dataset Kaggle Link
-https://www.kaggle.com/c/instacart-market-basket-analysis/data
+#### About Dataset
+
+Instacart is a same-day delivery and pick up service that allows consumers to shop through the company’s mobile app or website.
+The main business objective for the organization is to, not only increase the number of customer memberships but also improve the repeat visits and orders. Predicting consumer engagement and behavior with the products and grocery stores have a huge impact on Instacart’s success.
+
+The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.
+A total of 6 datasets  are provided viz. aisles, departments, products, orders, order_products_prior and order_products_train which give information about products, departments, aisles and customer transactional & purchasing order details.
+
+The information about this publicly released dataset can be found here:
+https://www.kaggle.com/c/instacart-market-basket-analysis/data 
 
 #### Objectives
 
@@ -46,4 +54,4 @@ Snowflake – Data Staging
 
 Pandas – Data exploration, visualizations, Prediction Modelling, Analysis of RFM and Customer Lifetime Value
 
-Einstein Analytics – Interactive Visualizations / Creating Dashboards 
+Einstein Analytics – Interactive Visualizations / Creating Dashboards
