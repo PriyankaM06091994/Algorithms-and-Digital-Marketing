@@ -30,38 +30,20 @@ Shows the hierarchy of product classification. Each category_id has a correspond
 Contains the first 100 records of train.bson so you can start exploring the data before downloading the entire set.
 
 
-#### Objectives
+###Algorithms:
 
-Who- Marketa analytics has hired us as an Algorithmic marketing analysts. Marketa is a consulting organization specializing in Marketing analytical solutions. 
+###Similarity Search: Cosine Similarity Algorithm
 
-What- To analyze data and build analytical dashboards 
-			
-Why- To illustrate the value of data driven analytics and to derive meaningful insights to help their business
+Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space.
 
-When- Over a 2 weeks period timeline 
+###Similarity Search: Facebook AI Similarity Search using FAISS
 
-Where- This project will be delivered to our client Instacart. Business Analyst, Pricing Specialist and Business Strategist can use these dashboards to make business decisions which will help Instacart maximize its sales
+FAISS is a library used for efficient similarity search and clustering of dense vectors. It returns all elements that are within a given radius of the query point. The vector representation for images is designed to produce similar vectors for similar images, where similar vectors are defined that are nearby in Euclidean space.
 
-How- The company has a challenge using large scale datasets.
-To use tools like XSV,Trifacta,Snowflake,Salesforce Einstein Analytics and Python. 
-
-
-![Capture](https://user-images.githubusercontent.com/59594174/84547477-a1263700-acd1-11ea-835f-8240b9c5ac2e.PNG)
+###Similarity Search: Annoy-Spotify Method
+Annoy (Approximate Nearest Neighbor Oh Yeah), is an open-sourced library for finding approximate nearest neighbors. This algorithm builds an annoy index by appending all image feature vectors stored in the local folder.
 
 
 
-### Salesforce Dashboards
-
-#### Onboarding Feature
-
-![InstacartVideo](https://user-images.githubusercontent.com/59594174/84546697-e3e70f80-accf-11ea-9d4a-251c613fdc56.PNG)
-
-#### Products Dashboard
-
-![Products_Dashboard](https://user-images.githubusercontent.com/59594174/84546714-e9445a00-accf-11ea-98e6-d94fb2daaa88.png)
-
-#### Insights Dashboards
-
-![Insights_Dashboard](https://user-images.githubusercontent.com/59594174/84546725-f2352b80-accf-11ea-97f6-ba314c8e1150.png)
 
 
