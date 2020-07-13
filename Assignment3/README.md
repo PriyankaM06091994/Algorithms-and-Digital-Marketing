@@ -14,7 +14,7 @@
 #### CLAAT Link
 https://codelabs-preview.appspot.com/?file_id=17eNMDqSmghdf-Fq4rKjazl2In8refahJ6sLwHXJ2_Ds
 
-#### About Dataset
+### About Dataset
 
 Our image dataset has been extracted from the full list of more than 40M products available at cdiscount.com in July, 2017.The dataset is organized according to a 3-level classification tree with categories labeled in French. So, to be precise there are 12,371,293 images for 7,069,896 products.
 
