@@ -19,5 +19,7 @@ https://docs.google.com/document/d/1SKxlI6y-X65zH0lmVIVqLOL_kvD5cUYwJsmW4FJhymc/
 
 
 ### Assignment 3 - Implementing Visual Search
+
+#### CLAAT Link
 https://codelabs-preview.appspot.com/?file_id=17eNMDqSmghdf-Fq4rKjazl2In8refahJ6sLwHXJ2_Ds
 
