@@ -1,7 +1,7 @@
 # Algorithms-and-Digital-Marketing
 
 
-### Assignment 1 - Instacart Analysis
+### Assignment 3 - Implementing Visual search
 
 #### Team Information
 
@@ -12,21 +12,18 @@
 
 
 #### CLAAT Link
-https://codelabs-preview.appspot.com/?file_id=1SKxlI6y-X65zH0lmVIVqLOL_kvD5cUYwJsmW4FJhymc
-
-#### Google Docs Link
-https://docs.google.com/document/d/1SKxlI6y-X65zH0lmVIVqLOL_kvD5cUYwJsmW4FJhymc/edit#heading=h.52s7maiu0fxv
+https://codelabs-preview.appspot.com/?file_id=17eNMDqSmghdf-Fq4rKjazl2In8refahJ6sLwHXJ2_Ds
 
 #### About Dataset
 
-Instacart is a same-day delivery and pick up service that allows consumers to shop through the company’s mobile app or website.
-The main business objective for the organization is to, not only increase the number of customer memberships but also improve the repeat visits and orders. Predicting consumer engagement and behavior with the products and grocery stores have a huge impact on Instacart’s success.
+Our image dataset has been extracted from the full list of more than 40M products available at cdiscount.com in July, 2017.The dataset is organized according to a 3-level classification tree with categories labeled in French. So, to be precise there are 12,371,293 images for 7,069,896 products.
 
-The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.
-A total of 6 datasets  are provided viz. aisles, departments, products, orders, order_products_prior and order_products_train which give information about products, departments, aisles and customer transactional & purchasing order details.
+The information about this publicly released dataset can be found here:  https://www.kaggle.com/c/cdiscount-image-classification-challenge
 
-The information about this publicly released dataset can be found here:
-https://www.kaggle.com/c/instacart-market-basket-analysis/data 
+train.bson - (Size: 58.2 GB) Contains a list of 7,069,896 dictionaries, one per product. Each dictionary contains a product id (key: _id), the category id of the product (key: category_id), and between 1-4 images, stored in a list (key: imgs). Each image list contains a single dictionary per image, which uses the format: {'picture': b'...binary string...'}. The binary string corresponds to a binary representation of the image in JPEG format. This kernel provides an example of how to process the data.
+category_names.csv - Shows the hierarchy of product classification. Each category_id has a corresponding level1, level2, and level3 name, in French. The category_id corresponds to the category tree down to its lowest level. This hierarchical data may be useful, but it is not necessary for building models and making predictions. All the absolutely necessary information is found in train.bson.
+train_example.bson - Contains the first 100 records of train.bson so you can start exploring the data before downloading the entire set.
+
 
 #### Objectives
 
@@ -47,17 +44,6 @@ To use tools like XSV,Trifacta,Snowflake,Salesforce Einstein Analytics and Pytho
 ![Capture](https://user-images.githubusercontent.com/59594174/84547477-a1263700-acd1-11ea-835f-8240b9c5ac2e.PNG)
 
 
-#### Description
-
-XSV – Preprocessing Data
-
-Trifacta – Data Wrangling
-
-Snowflake – Data Staging
-
-Pandas – Data exploration, visualizations, Prediction Modelling, Analysis of RFM and Customer Lifetime Value
-
-Einstein Analytics – Interactive Visualizations / Creating Dashboards
 
 ### Salesforce Dashboards
 
