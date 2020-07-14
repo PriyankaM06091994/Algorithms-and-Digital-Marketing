@@ -43,7 +43,13 @@ FAISS is a library used for efficient similarity search and clustering of dense 
 ### Similarity Search: Annoy-Spotify Method
 Annoy (Approximate Nearest Neighbor Oh Yeah), is an open-sourced library for finding approximate nearest neighbors. This algorithm builds an annoy index by appending all image feature vectors stored in the local folder.
 
+## Streamlit:
 
+![StreamlitApp1](https://user-images.githubusercontent.com/59594174/87279121-6ff97c00-c4b4-11ea-9458-8f2e5ed09126.PNG)
+
+![StreamlitApp2](https://user-images.githubusercontent.com/59594174/87279142-8a335a00-c4b4-11ea-9958-e7ffe1240db0.PNG)
+
+![StreamlitApp3](https://user-images.githubusercontent.com/59594174/87279154-94edef00-c4b4-11ea-9e24-aeca7186cdb2.PNG)
 
 
 
