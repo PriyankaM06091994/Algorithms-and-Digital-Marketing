@@ -1,0 +1,516 @@
+userId,Product_Id,Ratings,Country,Category,Product Name,Prediction Score 
+689,201,1,Thailand,Spicy,Stax Lobster chips ,0.08414537
+689,202,3,Thailand,Sweet,Coconut Mango Roll,0.49799573
+689,203,4,Thailand,Sour,Dried Tamarind,0.6364775
+689,204,1,Thailand,Salty,Salmon skin crackers,0.13691193
+689,205,3,Thailand,Bitter,Bitter Melon,0.60706544
+689,206,5,Thailand,Salty,Fried Chicken Skin,0.41460618
+689,207,4,Thailand,Salty,Koh Kae peanuts ,0.37805766
+689,208,3,Thailand,Spicy,Thai Cup Noodles,0.3246623
+689,209,2,Thailand,Sour,Dried Fruits,0.35758996
+689,210,3,Thailand,Salty,Squid Chips,0.68495286
+745,201,2,Thailand,Spicy,Stax Lobster chips ,0.7262629
+745,202,5,Thailand,Sweet,Coconut Mango Roll,0.64743066
+745,203,3,Thailand,Sour,Dried Tamarind,0.46870255
+745,204,4,Thailand,Salty,Salmon skin crackers,0.7613815
+745,205,2,Thailand,Bitter,Bitter Melon,0.53384453
+657,201,1,Thailand,Spicy,Stax Lobster chips ,0.67788786
+657,202,2,Thailand,Sweet,Coconut Mango Roll,0.60049045
+657,203,2,Thailand,Sour,Dried Tamarind,0.2774849
+657,204,2,Thailand,Salty,Salmon skin crackers,0.6003971
+657,205,2,Thailand,Bitter,Bitter Melon,0.41460618
+559,201,4,Thailand,Spicy,Stax Lobster chips ,0.37805766
+559,202,5,Thailand,Sweet,Coconut Mango Roll,0.3246623
+559,203,4,Thailand,Sour,Dried Tamarind,0.35758996
+559,204,3,Thailand,Salty,Salmon skin crackers,0.68495286
+559,205,4,Thailand,Bitter,Bitter Melon,0.7262629
+569,201,4,Thailand,Spicy,Stax Lobster chips ,0.29037732
+569,202,1,Thailand,Sweet,Coconut Mango Roll,0.3601362
+569,203,1,Thailand,Sour,Dried Tamarind,0.45919025
+569,204,1,Thailand,Salty,Salmon skin crackers,0.6546857
+569,205,2,Thailand,Bitter,Bitter Melon,0.47563574
+41,201,5,Thailand,Spicy,Stax Lobster chips ,0.57217205
+41,209,2,Thailand,Sour,Dried Fruits,0.35758996
+41,202,5,Thailand,Sweet,Coconut Mango Roll,0.7111281
+41,212,4,Thailand,Sweet,Milk Tablet,0.47563574
+41,203,5,Thailand,Sour,Dried Tamarind,0.20512012
+41,204,1,Thailand,Salty,Salmon skin crackers,0.5492885
+41,213,4,Thailand,Spicy,Tom Yum Shrimps,0.47563574
+41,211,4,Thailand,Sweet,Kalamare,0.5492885
+41,207,4,Thailand,Salty,Koh Kae peanuts ,0.37805766
+41,205,1,Thailand,Bitter,Bitter Melon,0.8126998
+860,201,3,Thailand,Spicy,Stax Lobster chips ,0.4917285
+860,202,5,Thailand,Sweet,Coconut Mango Roll,0.64424616
+860,203,1,Thailand,Sour,Dried Tamarind,0.36128742
+860,204,1,Thailand,Salty,Salmon skin crackers,0.642362
+860,205,1,Thailand,Bitter,Bitter Melon,0.6326469
+129,201,3,Thailand,Spicy,Stax Lobster chips ,0.3272277
+129,202,4,Thailand,Sweet,Coconut Mango Roll,0.24722373
+129,203,4,Thailand,Sour,Dried Tamarind,0.73400354
+129,204,2,Thailand,Salty,Salmon skin crackers,0.8061436
+129,205,5,Thailand,Bitter,Bitter Melon,0.4149275
+287,201,4,Thailand,Spicy,Stax Lobster chips ,0.4130495
+287,202,3,Thailand,Sweet,Coconut Mango Roll,0.71089315
+287,203,3,Thailand,Sour,Dried Tamarind,0.56570524
+287,204,3,Thailand,Salty,Salmon skin crackers,0.29693383
+287,205,1,Thailand,Bitter,Bitter Melon,0.7697868
+205,201,4,Thailand,Spicy,Stax Lobster chips ,0.25827873
+205,215,3,Thailand,Sour,Tao Kae Noi,0.7697868
+205,206,5,Thailand,Salty,Fried Chicken Skin,0.41460618
+205,202,4,Thailand,Sweet,Coconut Mango Roll,0.6520979
+205,211,4,Thailand,Sweet,Kalamare,0.5492885
+205,203,1,Thailand,Sour,Dried Tamarind,0.3812546
+205,204,4,Thailand,Salty,Salmon skin crackers,0.64104605
+205,208,3,Thailand,Spicy,Thai Cup Noodles,0.3246623
+205,214,4,Thailand,Salty,Bin Bin Rice Crackers,0.5492885
+205,205,2,Thailand,Bitter,Bitter Melon,0.65291923
+820,201,5,Thailand,Spicy,Stax Lobster chips ,0.6479777
+820,202,4,Thailand,Sweet,Coconut Mango Roll,0.35276377
+820,203,5,Thailand,Sour,Dried Tamarind,0.58683026
+820,204,5,Thailand,Salty,Salmon skin crackers,0.32319754
+820,205,3,Thailand,Bitter,Bitter Melon,0.7445499
+608,201,2,Thailand,Spicy,Stax Lobster chips ,0.11024779
+608,202,4,Thailand,Sweet,Coconut Mango Roll,0.629215
+608,203,2,Thailand,Sour,Dried Tamarind,0.4413995
+608,204,1,Thailand,Salty,Salmon skin crackers,0.06988272
+608,205,3,Thailand,Bitter,Bitter Melon,0.29624864
+134,201,1,Thailand,Spicy,Stax Lobster chips ,0.7880188
+134,202,2,Thailand,Sweet,Coconut Mango Roll,0.80112743
+134,203,1,Thailand,Sour,Dried Tamarind,0.72943175
+134,204,5,Thailand,Salty,Salmon skin crackers,0.063584596
+134,205,1,Thailand,Bitter,Bitter Melon,0.019308865
+898,201,1,Thailand,Spicy,Stax Lobster chips ,0.061012
+898,202,1,Thailand,Sweet,Coconut Mango Roll,0.024479777
+898,203,4,Thailand,Sour,Dried Tamarind,0.52985
+898,204,4,Thailand,Salty,Salmon skin crackers,0.6257161
+898,205,1,Thailand,Bitter,Bitter Melon,0.108157724
+497,201,4,Thailand,Spicy,Stax Lobster chips ,0.27648452
+497,202,1,Thailand,Sweet,Coconut Mango Roll,0.26891553
+497,203,1,Thailand,Sour,Dried Tamarind,0.67840314
+497,204,5,Thailand,Salty,Salmon skin crackers,0.66512454
+497,205,4,Thailand,Bitter,Bitter Melon,0.6428826
+823,201,3,Thailand,Spicy,Stax Lobster chips ,0.505709
+823,202,5,Thailand,Sweet,Coconut Mango Roll,0.4885452
+823,203,3,Thailand,Sour,Dried Tamarind,0.4279604
+823,204,4,Thailand,Salty,Salmon skin crackers,0.68682706
+823,205,4,Thailand,Bitter,Bitter Melon,0.70505744
+560,201,4,Thailand,Spicy,Stax Lobster chips ,0.59186494
+560,202,5,Thailand,Sweet,Coconut Mango Roll,0.48659003
+560,203,4,Thailand,Sour,Dried Tamarind,0.498583
+560,204,5,Thailand,Salty,Salmon skin crackers,0.20161769
+560,205,3,Thailand,Bitter,Bitter Melon,0.38377318
+594,201,1,Thailand,Spicy,Stax Lobster chips ,0.0774675
+594,202,2,Thailand,Sweet,Coconut Mango Roll,0.3545677
+594,203,3,Thailand,Sour,Dried Tamarind,0.6563504
+594,204,2,Thailand,Salty,Salmon skin crackers,0.76589227
+594,205,4,Thailand,Bitter,Bitter Melon,0.3327018
+176,201,1,Thailand,Spicy,Stax Lobster chips ,0.3595161
+176,202,3,Thailand,Sweet,Coconut Mango Roll,0.43478554
+176,203,1,Thailand,Sour,Dried Tamarind,0.5208184
+176,204,3,Thailand,Salty,Salmon skin crackers,0.6211041
+176,205,1,Thailand,Bitter,Bitter Melon,0.4480817
+56,201,4,Thailand,Spicy,Stax Lobster chips ,0.35686553
+56,202,5,Thailand,Sweet,Coconut Mango Roll,0.3294284
+56,203,4,Thailand,Sour,Dried Tamarind,0.61978245
+56,204,1,Thailand,Salty,Salmon skin crackers,0.6949069
+56,205,1,Thailand,Bitter,Bitter Melon,0.66047674
+272,201,3,Thailand,Spicy,Stax Lobster chips ,0.71061707
+272,202,2,Thailand,Sweet,Coconut Mango Roll,0.50334144
+272,203,5,Thailand,Sour,Dried Tamarind,0.17151314
+272,204,4,Thailand,Salty,Salmon skin crackers,0.45633483
+272,205,4,Thailand,Bitter,Bitter Melon,0.6306748
+431,201,2,Thailand,Spicy,Stax Lobster chips ,0.52864987
+431,202,4,Thailand,Sweet,Coconut Mango Roll,0.45471698
+431,203,1,Thailand,Sour,Dried Tamarind,0.29676116
+431,204,4,Thailand,Salty,Salmon skin crackers,0.7775205
+431,205,3,Thailand,Bitter,Bitter Melon,0.7856636
+129,201,2,Thailand,Spicy,Stax Lobster chips ,0.2322748
+129,202,4,Thailand,Sweet,Coconut Mango Roll,0.8288684
+129,203,1,Thailand,Sour,Dried Tamarind,0.46355993
+129,204,2,Thailand,Salty,Salmon skin crackers,0.22003442
+129,205,3,Thailand,Bitter,Bitter Melon,0.47152308
+486,201,4,Thailand,Spicy,Stax Lobster chips ,0.8305234
+486,202,1,Thailand,Sweet,Coconut Mango Roll,0.59935033
+486,203,4,Thailand,Sour,Dried Tamarind,0.438967
+486,204,4,Thailand,Salty,Salmon skin crackers,0.87399304
+486,205,1,Thailand,Bitter,Bitter Melon,0.454793
+988,201,5,Thailand,Spicy,Stax Lobster chips ,0.22996432
+988,202,5,Thailand,Sweet,Coconut Mango Roll,0.33027703
+988,203,5,Thailand,Sour,Dried Tamarind,0.12675092
+988,204,5,Thailand,Salty,Salmon skin crackers,0.41665128
+988,205,2,Thailand,Bitter,Bitter Melon,0.09817311
+340,201,2,Thailand,Spicy,Stax Lobster chips ,0.55573815
+340,202,1,Thailand,Sweet,Coconut Mango Roll,0.31049946
+340,203,1,Thailand,Sour,Dried Tamarind,0.35204977
+340,204,3,Thailand,Salty,Salmon skin crackers,0.16884202
+340,205,2,Thailand,Bitter,Bitter Melon,0.5742158
+523,201,3,Thailand,Spicy,Stax Lobster chips ,0.34887522
+523,202,3,Thailand,Sweet,Coconut Mango Roll,0.68105245
+523,203,4,Thailand,Sour,Dried Tamarind,0.35261136
+523,204,5,Thailand,Salty,Salmon skin crackers,0.26249322
+523,205,3,Thailand,Bitter,Bitter Melon,0.15672201
+338,201,1,Thailand,Spicy,Stax Lobster chips ,0.32989663
+338,202,4,Thailand,Sweet,Coconut Mango Roll,0.31349766
+338,203,5,Thailand,Sour,Dried Tamarind,0.6039217
+338,204,3,Thailand,Salty,Salmon skin crackers,0.7324782
+338,205,5,Thailand,Bitter,Bitter Melon,0.065276
+271,201,5,Thailand,Spicy,Stax Lobster chips ,0.50264996
+271,202,3,Thailand,Sweet,Coconut Mango Roll,0.6114124
+271,203,1,Thailand,Sour,Dried Tamarind,0.6785042
+271,204,1,Thailand,Salty,Salmon skin crackers,0.5162052
+271,205,2,Thailand,Bitter,Bitter Melon,0.4844215
+976,201,4,Thailand,Spicy,Stax Lobster chips ,0.62547183
+976,202,2,Thailand,Sweet,Coconut Mango Roll,0.168852
+976,203,2,Thailand,Sour,Dried Tamarind,0.28284943
+976,204,3,Thailand,Salty,Salmon skin crackers,0.16413626
+976,205,2,Thailand,Bitter,Bitter Melon,0.7517645
+393,201,4,Thailand,Spicy,Stax Lobster chips ,0.38941714
+393,202,1,Thailand,Sweet,Coconut Mango Roll,0.34160012
+393,203,4,Thailand,Sour,Dried Tamarind,0.4140106
+393,204,5,Thailand,Salty,Salmon skin crackers,0.19622675
+393,205,5,Thailand,Bitter,Bitter Melon,0.82999855
+774,201,1,Thailand,Spicy,Stax Lobster chips ,0.31755847
+774,202,4,Thailand,Sweet,Coconut Mango Roll,0.6951317
+774,203,5,Thailand,Sour,Dried Tamarind,0.33703756
+774,204,3,Thailand,Salty,Salmon skin crackers,0.48997545
+774,205,4,Thailand,Bitter,Bitter Melon,0.76308614
+762,201,1,Thailand,Spicy,Stax Lobster chips ,0.013537318
+762,202,1,Thailand,Sweet,Coconut Mango Roll,0.091431946
+762,203,3,Thailand,Sour,Dried Tamarind,0.004409075
+762,204,2,Thailand,Salty,Salmon skin crackers,0.00901401
+762,205,3,Thailand,Bitter,Bitter Melon,0.7772234
+520,201,1,Thailand,Spicy,Stax Lobster chips ,0.3375328
+520,202,2,Thailand,Sweet,Coconut Mango Roll,0.39682668
+520,203,1,Thailand,Sour,Dried Tamarind,0.23543811
+520,204,3,Thailand,Salty,Salmon skin crackers,0.7307614
+520,205,1,Thailand,Bitter,Bitter Melon,0.48551288
+652,201,1,Thailand,Spicy,Stax Lobster chips ,0.33902758
+652,202,5,Thailand,Sweet,Coconut Mango Roll,0.004417867
+652,203,1,Thailand,Sour,Dried Tamarind,0.12845376
+652,204,5,Thailand,Salty,Salmon skin crackers,0.063527286
+652,205,1,Thailand,Bitter,Bitter Melon,0.7568228
+304,201,4,Thailand,Spicy,Stax Lobster chips ,0.100670904
+304,202,1,Thailand,Sweet,Coconut Mango Roll,0.74358743
+304,203,2,Thailand,Sour,Dried Tamarind,0.6008373
+304,204,3,Thailand,Salty,Salmon skin crackers,0.81991935
+304,205,5,Thailand,Bitter,Bitter Melon,0.28512248
+724,201,3,Thailand,Spicy,Stax Lobster chips ,0.85223293
+724,202,5,Thailand,Sweet,Coconut Mango Roll,0.20058706
+724,203,1,Thailand,Sour,Dried Tamarind,0.83935046
+724,204,3,Thailand,Salty,Salmon skin crackers,0.79336774
+724,205,1,Thailand,Bitter,Bitter Melon,0.74658877
+969,201,1,Thailand,Spicy,Stax Lobster chips ,0.7461086
+969,202,1,Thailand,Sweet,Coconut Mango Roll,0.6711211
+969,203,1,Thailand,Sour,Dried Tamarind,0.40940648
+969,204,4,Thailand,Salty,Salmon skin crackers,0.7822866
+969,205,2,Thailand,Bitter,Bitter Melon,0.50688595
+79,201,5,Thailand,Spicy,Stax Lobster chips ,0.2861122
+79,202,5,Thailand,Sweet,Coconut Mango Roll,0.42321342
+79,203,3,Thailand,Sour,Dried Tamarind,0.43758327
+79,204,3,Thailand,Salty,Salmon skin crackers,0.7334603
+79,205,1,Thailand,Bitter,Bitter Melon,0.7900583
+336,201,3,Thailand,Spicy,Stax Lobster chips ,0.2547924
+336,202,1,Thailand,Sweet,Coconut Mango Roll,0.1056284
+336,203,5,Thailand,Sour,Dried Tamarind,0.070141196
+336,204,3,Thailand,Salty,Salmon skin crackers,0.6157084
+336,205,2,Thailand,Bitter,Bitter Melon,0.73927605
+25,201,5,Thailand,Spicy,Stax Lobster chips ,0.31300697
+25,202,2,Thailand,Sweet,Coconut Mango Roll,0.26803625
+25,203,1,Thailand,Sour,Dried Tamarind,0.23024273
+25,204,4,Thailand,Salty,Salmon skin crackers,0.7616594
+25,205,5,Thailand,Bitter,Bitter Melon,0.11289522
+671,201,2,Thailand,Spicy,Stax Lobster chips ,0.5468442
+671,202,5,Thailand,Sweet,Coconut Mango Roll,0.30992165
+671,203,4,Thailand,Sour,Dried Tamarind,0.7755028
+671,204,4,Thailand,Salty,Salmon skin crackers,0.75950766
+671,205,2,Thailand,Bitter,Bitter Melon,0.54828054
+865,201,3,Thailand,Spicy,Stax Lobster chips ,0.39979622
+865,202,2,Thailand,Sweet,Coconut Mango Roll,0.7123524
+865,203,3,Thailand,Sour,Dried Tamarind,0.6886412
+865,204,4,Thailand,Salty,Salmon skin crackers,0.23673213
+865,205,2,Thailand,Bitter,Bitter Melon,0.34589678
+585,201,4,Thailand,Spicy,Stax Lobster chips ,0.47666925
+585,202,1,Thailand,Sweet,Coconut Mango Roll,0.11375266
+585,203,4,Thailand,Sour,Dried Tamarind,0.5239943
+585,204,3,Thailand,Salty,Salmon skin crackers,0.4666499
+585,205,2,Thailand,Bitter,Bitter Melon,0.50429744
+502,201,2,Thailand,Spicy,Stax Lobster chips ,0.82035875
+502,202,1,Thailand,Sweet,Coconut Mango Roll,0.036013603
+502,203,1,Thailand,Sour,Dried Tamarind,0.1347597
+502,204,5,Thailand,Salty,Salmon skin crackers,0.2500472
+502,205,5,Thailand,Bitter,Bitter Melon,0.69078183
+247,201,5,Thailand,Spicy,Stax Lobster chips ,0.63377917
+247,202,3,Thailand,Sweet,Coconut Mango Roll,0.30897188
+247,203,5,Thailand,Sour,Dried Tamarind,0.42800808
+247,204,4,Thailand,Salty,Salmon skin crackers,0.6549473
+247,205,3,Thailand,Bitter,Bitter Melon,0.5292862
+472,201,4,Thailand,Spicy,Stax Lobster chips ,0.3119165
+472,202,4,Thailand,Sweet,Coconut Mango Roll,0.5317071
+472,203,5,Thailand,Sour,Dried Tamarind,0.80694234
+472,204,2,Thailand,Salty,Salmon skin crackers,0.3269792
+472,205,3,Thailand,Bitter,Bitter Melon,0.17538512
+389,201,5,Thailand,Spicy,Stax Lobster chips ,0.49395418
+389,202,1,Thailand,Sweet,Coconut Mango Roll,0.47658437
+389,203,5,Thailand,Sour,Dried Tamarind,0.77842975
+389,204,3,Thailand,Salty,Salmon skin crackers,0.81862354
+389,205,1,Thailand,Bitter,Bitter Melon,0.13294947
+579,201,4,Thailand,Spicy,Stax Lobster chips ,0.84983563
+579,202,3,Thailand,Sweet,Coconut Mango Roll,0.26005608
+579,203,2,Thailand,Sour,Dried Tamarind,0.8413718
+579,204,1,Thailand,Salty,Salmon skin crackers,0.15323606
+579,205,2,Thailand,Bitter,Bitter Melon,0.3018409
+664,201,4,Thailand,Spicy,Stax Lobster chips ,0.3555086
+664,202,3,Thailand,Sweet,Coconut Mango Roll,0.2889158
+664,203,3,Thailand,Sour,Dried Tamarind,0.46631864
+664,204,4,Thailand,Salty,Salmon skin crackers,0.48567078
+664,205,2,Thailand,Bitter,Bitter Melon,0.42810312
+870,201,5,Thailand,Spicy,Stax Lobster chips ,0.3150885
+870,202,3,Thailand,Sweet,Coconut Mango Roll,0.5919571
+870,203,2,Thailand,Sour,Dried Tamarind,0.46217066
+870,204,3,Thailand,Salty,Salmon skin crackers,0.46192226
+870,205,1,Thailand,Bitter,Bitter Melon,0.7075583
+907,201,1,Thailand,Spicy,Stax Lobster chips ,0.30268788
+907,202,5,Thailand,Sweet,Coconut Mango Roll,0.434951
+907,203,2,Thailand,Sour,Dried Tamarind,0.6550254
+907,204,1,Thailand,Salty,Salmon skin crackers,0.73295325
+907,205,5,Thailand,Bitter,Bitter Melon,0.60876125
+758,201,2,Thailand,Spicy,Stax Lobster chips ,0.53404045
+758,202,1,Thailand,Sweet,Coconut Mango Roll,0.47194353
+758,203,5,Thailand,Sour,Dried Tamarind,0.11601317
+758,204,3,Thailand,Salty,Salmon skin crackers,0.5606079
+758,205,3,Thailand,Bitter,Bitter Melon,0.47661513
+619,201,5,Thailand,Spicy,Stax Lobster chips ,0.18124923
+619,202,4,Thailand,Sweet,Coconut Mango Roll,0.5465065
+619,203,1,Thailand,Sour,Dried Tamarind,0.57653785
+619,204,2,Thailand,Salty,Salmon skin crackers,0.5607256
+619,205,4,Thailand,Bitter,Bitter Melon,0.00502947
+237,201,5,Thailand,Spicy,Stax Lobster chips ,0.3416639
+237,202,5,Thailand,Sweet,Coconut Mango Roll,0.37808335
+237,203,3,Thailand,Sour,Dried Tamarind,0.044046372
+237,204,1,Thailand,Salty,Salmon skin crackers,0.26867944
+237,205,4,Thailand,Bitter,Bitter Melon,0.032190233
+558,201,4,Thailand,Spicy,Stax Lobster chips ,0.04452917
+558,202,1,Thailand,Sweet,Coconut Mango Roll,0.014559358
+558,203,4,Thailand,Sour,Dried Tamarind,0.034309328
+558,204,1,Thailand,Salty,Salmon skin crackers,0.30082422
+558,205,2,Thailand,Bitter,Bitter Melon,0.03838247
+646,201,2,Thailand,Spicy,Stax Lobster chips ,0.24426258
+646,202,1,Thailand,Sweet,Coconut Mango Roll,0.22269717
+646,203,3,Thailand,Sour,Dried Tamarind,0.031938583
+646,204,4,Thailand,Salty,Salmon skin crackers,0.1902279
+646,205,5,Thailand,Bitter,Bitter Melon,0.031317383
+927,201,1,Thailand,Spicy,Stax Lobster chips ,0.10139203
+927,202,4,Thailand,Sweet,Coconut Mango Roll,0.48652488
+927,203,3,Thailand,Sour,Dried Tamarind,0.8203925
+927,204,1,Thailand,Salty,Salmon skin crackers,0.8911132
+927,205,4,Thailand,Bitter,Bitter Melon,0.14798287
+420,201,4,Thailand,Spicy,Stax Lobster chips ,0.7813481
+420,202,5,Thailand,Sweet,Coconut Mango Roll,0.13112605
+420,203,4,Thailand,Sour,Dried Tamarind,0.5147995
+420,204,1,Thailand,Salty,Salmon skin crackers,0.71347296
+420,205,4,Thailand,Bitter,Bitter Melon,0.2769814
+472,201,4,Thailand,Spicy,Stax Lobster chips ,0.4809289
+472,202,1,Thailand,Sweet,Coconut Mango Roll,0.11160165
+472,203,3,Thailand,Sour,Dried Tamarind,0.14880607
+472,204,2,Thailand,Salty,Salmon skin crackers,0.624485
+472,205,2,Thailand,Bitter,Bitter Melon,0.61443037
+518,201,2,Thailand,Spicy,Stax Lobster chips ,0.57404375
+518,202,2,Thailand,Sweet,Coconut Mango Roll,0.46532512
+518,203,3,Thailand,Sour,Dried Tamarind,0.25217322
+518,204,5,Thailand,Salty,Salmon skin crackers,0.40351686
+518,205,5,Thailand,Bitter,Bitter Melon,0.13824892
+935,201,4,Thailand,Spicy,Stax Lobster chips ,0.31132343
+935,202,3,Thailand,Sweet,Coconut Mango Roll,0.64964557
+935,203,1,Thailand,Sour,Dried Tamarind,0.64487404
+935,204,2,Thailand,Salty,Salmon skin crackers,0.2584158
+935,205,3,Thailand,Bitter,Bitter Melon,0.5248789
+825,201,4,Thailand,Spicy,Stax Lobster chips ,0.27027303
+825,202,2,Thailand,Sweet,Coconut Mango Roll,0.61546844
+825,203,5,Thailand,Sour,Dried Tamarind,0.6824251
+825,204,5,Thailand,Salty,Salmon skin crackers,0.47454318
+825,205,1,Thailand,Bitter,Bitter Melon,0.5250467
+428,201,1,Thailand,Spicy,Stax Lobster chips ,0.7256762
+428,202,1,Thailand,Sweet,Coconut Mango Roll,0.40873855
+428,203,2,Thailand,Sour,Dried Tamarind,0.48527324
+428,204,3,Thailand,Salty,Salmon skin crackers,0.66950405
+428,205,2,Thailand,Bitter,Bitter Melon,0.49679533
+449,201,4,Thailand,Spicy,Stax Lobster chips ,0.15049094
+449,202,3,Thailand,Sweet,Coconut Mango Roll,0.13453677
+449,203,3,Thailand,Sour,Dried Tamarind,0.8530259
+449,204,4,Thailand,Salty,Salmon skin crackers,0.6925646
+449,205,5,Thailand,Bitter,Bitter Melon,0.5585504
+565,201,4,Thailand,Spicy,Stax Lobster chips ,0.44807735
+565,202,1,Thailand,Sweet,Coconut Mango Roll,0.5096076
+565,203,2,Thailand,Sour,Dried Tamarind,0.3988744
+565,204,2,Thailand,Salty,Salmon skin crackers,0.8241322
+565,205,3,Thailand,Bitter,Bitter Melon,0.32066822
+716,201,1,Thailand,Spicy,Stax Lobster chips ,0.17569828
+716,202,2,Thailand,Sweet,Coconut Mango Roll,0.7133974
+716,203,4,Thailand,Sour,Dried Tamarind,0.18635964
+716,204,3,Thailand,Salty,Salmon skin crackers,0.78449774
+716,205,4,Thailand,Bitter,Bitter Melon,0.30369633
+597,201,5,Thailand,Spicy,Stax Lobster chips ,0.53416896
+597,202,2,Thailand,Sweet,Coconut Mango Roll,0.81789464
+597,203,5,Thailand,Sour,Dried Tamarind,0.848976
+597,204,5,Thailand,Salty,Salmon skin crackers,0.6558734
+597,205,5,Thailand,Bitter,Bitter Melon,0.7424216
+687,201,2,Thailand,Spicy,Stax Lobster chips ,0.059855312
+687,202,4,Thailand,Sweet,Coconut Mango Roll,0.69973284
+687,203,4,Thailand,Sour,Dried Tamarind,0.2482517
+687,204,2,Thailand,Salty,Salmon skin crackers,0.7272711
+687,205,4,Thailand,Bitter,Bitter Melon,0.68688583
+279,201,2,Thailand,Spicy,Stax Lobster chips ,0.7117411
+279,202,2,Thailand,Sweet,Coconut Mango Roll,0.1749514
+279,203,5,Thailand,Sour,Dried Tamarind,0.6565467
+279,204,1,Thailand,Salty,Salmon skin crackers,0.6516875
+279,205,5,Thailand,Bitter,Bitter Melon,0.54997104
+319,201,4,Thailand,Spicy,Stax Lobster chips ,0.008036792
+319,202,2,Thailand,Sweet,Coconut Mango Roll,0.61034966
+319,203,1,Thailand,Sour,Dried Tamarind,0.038345695
+319,204,1,Thailand,Salty,Salmon skin crackers,0.7282314
+319,205,2,Thailand,Bitter,Bitter Melon,0.50029296
+234,201,4,Thailand,Spicy,Stax Lobster chips ,0.33127218
+234,202,3,Thailand,Sweet,Coconut Mango Roll,0.032149345
+234,203,5,Thailand,Sour,Dried Tamarind,0.42946428
+234,204,4,Thailand,Salty,Salmon skin crackers,0.42087427
+234,205,2,Thailand,Bitter,Bitter Melon,0.057951182
+900,201,5,Thailand,Spicy,Stax Lobster chips ,0.541165
+900,202,4,Thailand,Sweet,Coconut Mango Roll,0.3645982
+900,203,2,Thailand,Sour,Dried Tamarind,0.6420048
+900,204,2,Thailand,Salty,Salmon skin crackers,0.37027913
+900,205,4,Thailand,Bitter,Bitter Melon,0.71528554
+132,201,1,Thailand,Spicy,Stax Lobster chips ,0.70338506
+132,202,5,Thailand,Sweet,Coconut Mango Roll,0.266682
+132,203,2,Thailand,Sour,Dried Tamarind,0.6593698
+132,204,3,Thailand,Salty,Salmon skin crackers,0.33719382
+132,205,4,Thailand,Bitter,Bitter Melon,0.77247846
+911,201,1,Thailand,Spicy,Stax Lobster chips ,0.4853114
+911,202,3,Thailand,Sweet,Coconut Mango Roll,0.5364148
+911,203,1,Thailand,Sour,Dried Tamarind,0.089426726
+911,204,4,Thailand,Salty,Salmon skin crackers,0.5319705
+911,205,2,Thailand,Bitter,Bitter Melon,0.7880487
+768,201,1,Thailand,Spicy,Stax Lobster chips ,0.54813594
+768,202,5,Thailand,Sweet,Coconut Mango Roll,0.051390648
+768,203,3,Thailand,Sour,Dried Tamarind,0.62330586
+768,204,3,Thailand,Salty,Salmon skin crackers,0.52610445
+768,205,2,Thailand,Bitter,Bitter Melon,0.66515005
+392,201,3,Thailand,Spicy,Stax Lobster chips ,0.61678165
+392,202,4,Thailand,Sweet,Coconut Mango Roll,0.17939216
+392,203,4,Thailand,Sour,Dried Tamarind,0.05028984
+392,204,2,Thailand,Salty,Salmon skin crackers,0.7265242
+392,205,1,Thailand,Bitter,Bitter Melon,0.5665538
+986,201,4,Thailand,Spicy,Stax Lobster chips ,0.33834752
+986,202,1,Thailand,Sweet,Coconut Mango Roll,0.5842124
+986,203,5,Thailand,Sour,Dried Tamarind,0.39079064
+986,204,5,Thailand,Salty,Salmon skin crackers,0.47801864
+986,205,4,Thailand,Bitter,Bitter Melon,0.7369678
+715,201,4,Thailand,Spicy,Stax Lobster chips ,0.5946244
+715,202,2,Thailand,Sweet,Coconut Mango Roll,0.5271504
+715,203,2,Thailand,Sour,Dried Tamarind,0.5336537
+715,204,4,Thailand,Salty,Salmon skin crackers,0.5432576
+715,205,5,Thailand,Bitter,Bitter Melon,0.52576494
+3,201,1,Thailand,Spicy,Stax Lobster chips ,0.5545816
+3,202,4,Thailand,Sweet,Coconut Mango Roll,0.5599281
+3,203,1,Thailand,Sour,Dried Tamarind,0.64696175
+3,204,3,Thailand,Salty,Salmon skin crackers,0.5182841
+3,205,5,Thailand,Bitter,Bitter Melon,0.27954078
+307,201,4,Thailand,Spicy,Stax Lobster chips ,0.35951388
+307,202,1,Thailand,Sweet,Coconut Mango Roll,0.5778679
+307,203,3,Thailand,Sour,Dried Tamarind,0.61611766
+307,204,3,Thailand,Salty,Salmon skin crackers,0.7129321
+307,205,2,Thailand,Bitter,Bitter Melon,0.72143364
+554,201,3,Thailand,Spicy,Stax Lobster chips ,0.27792495
+554,202,2,Thailand,Sweet,Coconut Mango Roll,0.35713866
+554,203,2,Thailand,Sour,Dried Tamarind,0.42864278
+554,204,4,Thailand,Salty,Salmon skin crackers,0.059212834
+554,205,5,Thailand,Bitter,Bitter Melon,0.45997444
+345,201,5,Thailand,Spicy,Stax Lobster chips ,0.27659592
+345,202,2,Thailand,Sweet,Coconut Mango Roll,0.36350948
+345,203,4,Thailand,Sour,Dried Tamarind,0.6301748
+345,204,3,Thailand,Salty,Salmon skin crackers,0.25404954
+345,205,1,Thailand,Bitter,Bitter Melon,0.221784
+551,201,1,Thailand,Spicy,Stax Lobster chips ,0.62329775
+551,202,2,Thailand,Sweet,Coconut Mango Roll,0.43530577
+551,203,5,Thailand,Sour,Dried Tamarind,0.41291183
+551,204,1,Thailand,Salty,Salmon skin crackers,0.39374033
+551,205,4,Thailand,Bitter,Bitter Melon,0.7406295
+966,201,4,Thailand,Spicy,Stax Lobster chips ,0.35189617
+966,202,4,Thailand,Sweet,Coconut Mango Roll,0.3440939
+966,203,3,Thailand,Sour,Dried Tamarind,0.4244093
+966,204,2,Thailand,Salty,Salmon skin crackers,0.17592955
+966,205,3,Thailand,Bitter,Bitter Melon,0.30913365
+604,201,5,Thailand,Spicy,Stax Lobster chips ,0.25074428
+604,202,5,Thailand,Sweet,Coconut Mango Roll,0.377093
+604,203,4,Thailand,Sour,Dried Tamarind,0.64081085
+604,204,3,Thailand,Salty,Salmon skin crackers,0.8178472
+604,205,3,Thailand,Bitter,Bitter Melon,0.4099276
+346,201,5,Thailand,Spicy,Stax Lobster chips ,0.24949837
+346,202,5,Thailand,Sweet,Coconut Mango Roll,0.84710324
+346,203,2,Thailand,Sour,Dried Tamarind,0.35640198
+346,204,4,Thailand,Salty,Salmon skin crackers,0.4488749
+346,205,4,Thailand,Bitter,Bitter Melon,0.84670824
+163,201,1,Thailand,Spicy,Stax Lobster chips ,0.78911304
+163,202,3,Thailand,Sweet,Coconut Mango Roll,0.58406544
+163,203,1,Thailand,Sour,Dried Tamarind,0.2329328
+163,204,1,Thailand,Salty,Salmon skin crackers,0.4128676
+163,205,3,Thailand,Bitter,Bitter Melon,0.49252677
+325,201,4,Thailand,Spicy,Stax Lobster chips ,0.34898317
+325,202,2,Thailand,Sweet,Coconut Mango Roll,0.042423606
+325,203,5,Thailand,Sour,Dried Tamarind,0.23488057
+325,204,4,Thailand,Salty,Salmon skin crackers,0.5234364
+325,205,2,Thailand,Bitter,Bitter Melon,0.6479198
+715,201,1,Thailand,Spicy,Stax Lobster chips ,0.08913374
+715,202,5,Thailand,Sweet,Coconut Mango Roll,0.28600484
+715,203,2,Thailand,Sour,Dried Tamarind,0.45150888
+715,204,2,Thailand,Salty,Salmon skin crackers,0.25770682
+715,205,2,Thailand,Bitter,Bitter Melon,0.67377794
+167,201,2,Thailand,Spicy,Stax Lobster chips ,0.70967305
+167,202,5,Thailand,Sweet,Coconut Mango Roll,0.39363974
+167,203,2,Thailand,Sour,Dried Tamarind,0.22881141
+167,204,3,Thailand,Salty,Salmon skin crackers,0.24774948
+167,205,2,Thailand,Bitter,Bitter Melon,0.3387714
+906,201,5,Thailand,Spicy,Stax Lobster chips ,0.6666335
+906,202,1,Thailand,Sweet,Coconut Mango Roll,0.35695088
+906,203,1,Thailand,Sour,Dried Tamarind,0.7093836
+906,204,3,Thailand,Salty,Salmon skin crackers,0.24898463
+906,205,1,Thailand,Bitter,Bitter Melon,0.8519887
+792,201,4,Thailand,Spicy,Stax Lobster chips ,0.710003
+792,202,4,Thailand,Sweet,Coconut Mango Roll,0.22384697
+792,203,2,Thailand,Sour,Dried Tamarind,0.8647877
+792,204,1,Thailand,Salty,Salmon skin crackers,0.47809193
+792,205,2,Thailand,Bitter,Bitter Melon,0.09412125
+333,201,2,Thailand,Spicy,Stax Lobster chips ,0.22467205
+333,202,4,Thailand,Sweet,Coconut Mango Roll,0.3878558
+333,203,4,Thailand,Sour,Dried Tamarind,0.63234025
+333,204,4,Thailand,Salty,Salmon skin crackers,0.31679884
+333,205,5,Thailand,Bitter,Bitter Melon,0.8309076
+182,201,1,Thailand,Spicy,Stax Lobster chips ,0.40291217
+182,202,1,Thailand,Sweet,Coconut Mango Roll,0.5294818
+182,203,1,Thailand,Sour,Dried Tamarind,0.30851838
+182,204,5,Thailand,Salty,Salmon skin crackers,0.51179975
+182,205,5,Thailand,Bitter,Bitter Melon,0.18629608
+1000,201,1,Thailand,Spicy,Stax Lobster chips ,0.31555262
+1000,202,1,Thailand,Sweet,Coconut Mango Roll,0.15797159
+1000,203,2,Thailand,Sour,Dried Tamarind,0.46404272
+1000,204,4,Thailand,Salty,Salmon skin crackers,0.4873748
+1000,205,5,Thailand,Bitter,Bitter Melon,0.19914904
+618,201,1,Thailand,Spicy,Stax Lobster chips ,0.4113448
+618,202,5,Thailand,Sweet,Coconut Mango Roll,0.7471163
+618,203,3,Thailand,Sour,Dried Tamarind,0.60625815
+618,204,4,Thailand,Salty,Salmon skin crackers,0.6739464
+618,205,3,Thailand,Bitter,Bitter Melon,0.5372149
+431,201,5,Thailand,Spicy,Stax Lobster chips ,0.36139745
+431,202,4,Thailand,Sweet,Coconut Mango Roll,0.38726002
+431,203,3,Thailand,Sour,Dried Tamarind,0.15431687
+431,204,4,Thailand,Salty,Salmon skin crackers,0.3505324
+431,205,4,Thailand,Bitter,Bitter Melon,0.5241036
+507,201,3,Thailand,Spicy,Stax Lobster chips ,0.43910632
+507,202,4,Thailand,Sweet,Coconut Mango Roll,0.6169563
+507,203,3,Thailand,Sour,Dried Tamarind,0.47801727
+507,204,5,Thailand,Salty,Salmon skin crackers,0.5568954
+507,205,5,Thailand,Bitter,Bitter Melon,0.3516642
+839,201,5,Thailand,Spicy,Stax Lobster chips ,0.37761095
+839,202,5,Thailand,Sweet,Coconut Mango Roll,0.46948284
+839,203,3,Thailand,Sour,Dried Tamarind,0.3709905
+839,204,5,Thailand,Salty,Salmon skin crackers,0.68670094
+839,205,2,Thailand,Bitter,Bitter Melon,0.48771295

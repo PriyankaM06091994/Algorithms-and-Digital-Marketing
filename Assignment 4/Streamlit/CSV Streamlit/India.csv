@@ -1,0 +1,515 @@
+userId,Product_Id,Ratings,Country,Category,Product Name,Prediction Score
+689,101,5,India,Spicy,Kurkure,0.8837998
+689,102,3,India,Sweet,Dairy Milk,0.45131698
+689,103,3,India,Sour,Dried Amla,0.5766604
+689,104,2,India,Salty,Balaji Chips,0.18201432
+689,105,3,India,Bitter,Crispy Karela,0.18485302
+689,106,4,India,Spicy,Haldiram Aloo Bhujia,0.14568663
+689,107,4,India,Sweet,Kaju Katli,0.8738616
+689,108,3,India,Sour,Hajmola,0.1264109
+689,109,5,India,Salty,Salted Peanuts,0.08766255
+689,110,4,India,Bitter,Bittergourd Chips,0.6963475
+745,101,2,India,Spicy,Kurkure,0.16092172
+745,102,5,India,Sweet,Dairy Milk,0.8721098
+745,103,3,India,Sour,Dried Amla,0.72327757
+745,104,1,India,Salty,Balaji Chips,0.8716912
+745,105,4,India,Bitter,Crispy Karela,0.14568663
+657,101,3,India,Spicy,Kurkure,0.8738616
+657,102,2,India,Sweet,Dairy Milk,0.1264109
+657,103,2,India,Sour,Dried Amla,0.08766255
+657,104,3,India,Salty,Balaji Chips,0.6963475
+657,105,5,India,Bitter,Crispy Karela,0.16092172
+559,101,1,India,Spicy,Kurkure,0.3138728
+559,102,3,India,Sweet,Dairy Milk,0.76201284
+559,103,2,India,Sour,Dried Amla,0.85570025
+559,104,4,India,Salty,Balaji Chips,0.8572345
+559,105,3,India,Bitter,Crispy Karela,0.89030635
+569,101,4,India,Spicy,Kurkure,0.292376
+569,102,4,India,Sweet,Dairy Milk,0.33274353
+569,103,2,India,Sour,Dried Amla,0.24248442
+569,104,3,India,Salty,Balaji Chips,0.60576844
+569,105,5,India,Bitter,Crispy Karela,0.58409023
+41,101,3,India,Spicy,Kurkure,0.09442964
+41,102,2,India,Sweet,Dairy Milk,0.36961865
+41,103,3,India,Sour,Dried Amla,0.061289966
+41,104,1,India,Salty,Balaji Chips,0.7528282
+41,105,3,India,Bitter,Crispy Karela,0.84953535
+41,111,3,India,Spicy,Chakri,0.8572345
+41,112,4,India,Spicy,Bhakarwadi,0.89030635
+41,113,5,India,Sweet,Perk,0.292376
+41,114,4,India,Sweet,Potato Chivda ,0.33274353
+41,115,5,India,Salty,Salted Chana,0.24248442
+860,101,4,India,Spicy,Kurkure,0.2885425
+860,102,4,India,Sweet,Dairy Milk,0.03540373
+860,103,1,India,Sour,Dried Amla,0.16309029
+860,104,5,India,Salty,Balaji Chips,0.28237104
+860,105,1,India,Bitter,Crispy Karela,0.56368977
+129,101,4,India,Spicy,Kurkure,0.5198505
+129,102,5,India,Sweet,Dairy Milk,0.7948431
+129,103,3,India,Sour,Dried Amla,0.5097607
+129,104,5,India,Salty,Balaji Chips,0.5081594
+129,105,1,India,Bitter,Crispy Karela,0.39844826
+287,101,4,India,Spicy,Kurkure,0.7365024
+287,102,4,India,Sweet,Dairy Milk,0.69308776
+287,103,2,India,Sour,Dried Amla,0.58503467
+287,104,1,India,Salty,Balaji Chips,0.21931592
+287,105,2,India,Bitter,Crispy Karela,0.40460092
+205,101,2,India,Spicy,Kurkure,0.30644354
+205,108,3,India,Sour,Hajmola,0.1264109
+205,112,4,India,Spicy,Bhakarwadi,0.89030635
+205,114,4,India,Sweet,Potato Chivda ,0.33274353
+205,102,4,India,Sweet,Dairy Milk,0.46444023
+205,109,5,India,Salty,Salted Peanuts,0.08766255
+205,103,4,India,Sour,Dried Amla,0.44112828
+205,104,3,India,Salty,Balaji Chips,0.6303398
+205,105,3,India,Bitter,Crispy Karela,0.09325066
+820,101,2,India,Spicy,Kurkure,0.8956132
+820,102,4,India,Sweet,Dairy Milk,0.18348011
+820,103,4,India,Sour,Dried Amla,0.83061415
+820,104,4,India,Salty,Balaji Chips,0.26419175
+820,105,1,India,Bitter,Crispy Karela,0.14548296
+608,101,2,India,Spicy,Kurkure,0.537904
+608,102,3,India,Sweet,Dairy Milk,0.85938245
+608,103,5,India,Sour,Dried Amla,0.3712924
+608,104,1,India,Salty,Balaji Chips,0.8178644
+608,105,4,India,Bitter,Crispy Karela,0.29889113
+134,101,1,India,Spicy,Kurkure,0.35776737
+134,102,5,India,Sweet,Dairy Milk,0.3924474
+134,103,5,India,Sour,Dried Amla,0.5857387
+134,104,2,India,Salty,Balaji Chips,0.4127109
+134,105,4,India,Bitter,Crispy Karela,0.70246494
+898,101,3,India,Spicy,Kurkure,0.37219948
+898,102,5,India,Sweet,Dairy Milk,0.80079174
+898,103,2,India,Sour,Dried Amla,0.55680376
+898,104,5,India,Salty,Balaji Chips,0.4496776
+898,105,1,India,Bitter,Crispy Karela,0.3018753
+497,101,3,India,Spicy,Kurkure,0.7310723
+497,102,2,India,Sweet,Dairy Milk,0.09441984
+497,103,5,India,Sour,Dried Amla,0.68378776
+497,104,5,India,Salty,Balaji Chips,0.51809174
+497,105,5,India,Bitter,Crispy Karela,0.123775035
+823,101,4,India,Spicy,Kurkure,0.26765004
+823,102,3,India,Sweet,Dairy Milk,0.69818664
+823,103,1,India,Sour,Dried Amla,0.26993686
+823,104,1,India,Salty,Balaji Chips,0.53443676
+823,105,2,India,Bitter,Crispy Karela,0.64220774
+560,101,1,India,Spicy,Kurkure,0.76461923
+560,102,4,India,Sweet,Dairy Milk,0.27186543
+560,103,1,India,Sour,Dried Amla,0.8040713
+560,104,2,India,Salty,Balaji Chips,0.27671295
+560,105,2,India,Bitter,Crispy Karela,0.328181
+594,101,2,India,Spicy,Kurkure,0.7332927
+594,102,1,India,Sweet,Dairy Milk,0.68070376
+594,103,4,India,Sour,Dried Amla,0.61289686
+594,104,3,India,Salty,Balaji Chips,0.3972506
+594,105,1,India,Bitter,Crispy Karela,0.5627214
+176,101,3,India,Spicy,Kurkure,0.043453246
+176,102,4,India,Sweet,Dairy Milk,0.08639586
+176,103,2,India,Sour,Dried Amla,0.04631436
+176,104,3,India,Salty,Balaji Chips,0.079604656
+176,105,3,India,Bitter,Crispy Karela,0.063720256
+56,101,1,India,Spicy,Kurkure,0.7171848
+56,102,5,India,Sweet,Dairy Milk,0.04535243
+56,103,2,India,Sour,Dried Amla,0.32902122
+56,104,2,India,Salty,Balaji Chips,0.22213694
+56,105,4,India,Bitter,Crispy Karela,0.5641794
+272,101,1,India,Spicy,Kurkure,0.7244333
+272,102,5,India,Sweet,Dairy Milk,0.21744984
+272,103,3,India,Sour,Dried Amla,0.14498225
+272,104,5,India,Salty,Balaji Chips,0.1702373
+272,105,4,India,Bitter,Crispy Karela,0.6344961
+431,101,1,India,Spicy,Kurkure,0.19195363
+431,102,2,India,Sweet,Dairy Milk,0.13745883
+431,103,1,India,Sour,Dried Amla,0.021034926
+431,104,3,India,Salty,Balaji Chips,0.22401232
+431,105,2,India,Bitter,Crispy Karela,0.6755791
+129,101,4,India,Spicy,Kurkure,0.7350651
+129,102,2,India,Sweet,Dairy Milk,0.3765103
+129,103,3,India,Sour,Dried Amla,0.35483027
+129,104,1,India,Salty,Balaji Chips,0.27123934
+129,105,1,India,Bitter,Crispy Karela,0.7730228
+486,101,4,India,Spicy,Kurkure,0.48663497
+486,102,4,India,Sweet,Dairy Milk,0.57169825
+486,103,1,India,Sour,Dried Amla,0.66870844
+486,104,1,India,Salty,Balaji Chips,0.42685246
+486,105,4,India,Bitter,Crispy Karela,0.3076812
+988,101,3,India,Spicy,Kurkure,0.14927825
+988,102,3,India,Sweet,Dairy Milk,0.38755092
+988,103,3,India,Sour,Dried Amla,0.14504507
+988,104,1,India,Salty,Balaji Chips,0.25012952
+988,105,3,India,Bitter,Crispy Karela,0.35067075
+340,101,4,India,Spicy,Kurkure,0.36252034
+340,102,4,India,Sweet,Dairy Milk,0.29149073
+340,103,1,India,Sour,Dried Amla,0.7955072
+340,104,1,India,Salty,Balaji Chips,0.29793978
+340,105,2,India,Bitter,Crispy Karela,0.10834107
+523,101,5,India,Spicy,Kurkure,0.88206977
+523,102,5,India,Sweet,Dairy Milk,0.18570039
+523,103,1,India,Sour,Dried Amla,0.35535467
+523,104,3,India,Salty,Balaji Chips,0.26977384
+523,105,2,India,Bitter,Crispy Karela,0.3090228
+338,101,1,India,Spicy,Kurkure,0.57075036
+338,102,1,India,Sweet,Dairy Milk,0.19824505
+338,103,4,India,Sour,Dried Amla,0.13127625
+338,104,2,India,Salty,Balaji Chips,0.364056
+338,105,5,India,Bitter,Crispy Karela,0.25135362
+271,101,2,India,Spicy,Kurkure,0.34311485
+271,102,2,India,Sweet,Dairy Milk,0.38507807
+271,103,4,India,Sour,Dried Amla,0.49472424
+271,104,5,India,Salty,Balaji Chips,0.43551594
+271,105,1,India,Bitter,Crispy Karela,0.7031345
+976,101,1,India,Spicy,Kurkure,0.62811136
+976,102,4,India,Sweet,Dairy Milk,0.22469488
+976,103,1,India,Sour,Dried Amla,0.31916025
+976,104,3,India,Salty,Balaji Chips,0.3878121
+976,105,1,India,Bitter,Crispy Karela,0.4713289
+393,101,4,India,Spicy,Kurkure,0.81447935
+393,102,2,India,Sweet,Dairy Milk,0.39014417
+393,103,5,India,Sour,Dried Amla,0.40883794
+393,104,4,India,Salty,Balaji Chips,0.40429547
+393,105,3,India,Bitter,Crispy Karela,0.46044153
+774,101,2,India,Spicy,Kurkure,0.7434552
+774,102,1,India,Sweet,Dairy Milk,0.49862093
+774,103,5,India,Sour,Dried Amla,0.21128199
+774,104,5,India,Salty,Balaji Chips,0.1854966
+774,105,3,India,Bitter,Crispy Karela,0.4286091
+762,101,3,India,Spicy,Kurkure,0.52639854
+762,102,3,India,Sweet,Dairy Milk,0.35573357
+762,103,3,India,Sour,Dried Amla,0.5752342
+762,104,1,India,Salty,Balaji Chips,0.3334459
+762,105,1,India,Bitter,Crispy Karela,0.5774424
+520,101,4,India,Spicy,Kurkure,0.43376282
+520,102,1,India,Sweet,Dairy Milk,0.13366869
+520,103,1,India,Sour,Dried Amla,0.4467825
+520,104,5,India,Salty,Balaji Chips,0.6882006
+520,105,5,India,Bitter,Crispy Karela,0.29714942
+652,101,1,India,Spicy,Kurkure,0.50286
+652,102,4,India,Sweet,Dairy Milk,0.5802693
+652,103,1,India,Sour,Dried Amla,0.5042272
+652,104,2,India,Salty,Balaji Chips,0.25487143
+652,105,4,India,Bitter,Crispy Karela,0.6554722
+304,101,2,India,Spicy,Kurkure,0.40801036
+304,102,2,India,Sweet,Dairy Milk,0.47277683
+304,103,2,India,Sour,Dried Amla,0.48699564
+304,104,1,India,Salty,Balaji Chips,0.40945143
+304,105,1,India,Bitter,Crispy Karela,0.7423383
+724,101,1,India,Spicy,Kurkure,0.67319006
+724,102,3,India,Sweet,Dairy Milk,0.3390992
+724,103,2,India,Sour,Dried Amla,0.36365736
+724,104,2,India,Salty,Balaji Chips,0.54325116
+724,105,5,India,Bitter,Crispy Karela,0.50134087
+969,101,3,India,Spicy,Kurkure,0.41274366
+969,102,5,India,Sweet,Dairy Milk,0.5202547
+969,103,4,India,Sour,Dried Amla,0.34316266
+969,104,4,India,Salty,Balaji Chips,0.4843146
+969,105,5,India,Bitter,Crispy Karela,0.5218575
+79,101,4,India,Spicy,Kurkure,0.51891506
+79,102,4,India,Sweet,Dairy Milk,0.4842017
+79,103,2,India,Sour,Dried Amla,0.44949383
+79,104,2,India,Salty,Balaji Chips,0.1656282
+79,105,2,India,Bitter,Crispy Karela,0.36529508
+336,101,1,India,Spicy,Kurkure,0.11491889
+336,102,1,India,Sweet,Dairy Milk,0.32382935
+336,103,1,India,Sour,Dried Amla,0.46874306
+336,104,5,India,Salty,Balaji Chips,0.43500015
+336,105,3,India,Bitter,Crispy Karela,0.7339521
+25,101,1,India,Spicy,Kurkure,0.32572645
+25,102,4,India,Sweet,Dairy Milk,0.61996007
+25,103,5,India,Sour,Dried Amla,0.7573565
+25,104,4,India,Salty,Balaji Chips,0.3040269
+25,105,2,India,Bitter,Crispy Karela,0.30267876
+671,101,5,India,Spicy,Kurkure,0.11747083
+671,102,1,India,Sweet,Dairy Milk,0.20752013
+671,103,3,India,Sour,Dried Amla,0.19123149
+671,104,5,India,Salty,Balaji Chips,0.48268318
+671,105,4,India,Bitter,Crispy Karela,0.26438445
+865,101,4,India,Spicy,Kurkure,0.6815084
+865,102,3,India,Sweet,Dairy Milk,0.518053
+865,103,3,India,Sour,Dried Amla,0.69458604
+865,104,2,India,Salty,Balaji Chips,0.48965937
+865,105,1,India,Bitter,Crispy Karela,0.5376569
+585,101,3,India,Spicy,Kurkure,0.4632828
+585,102,4,India,Sweet,Dairy Milk,0.22828996
+585,103,3,India,Sour,Dried Amla,0.4019586
+585,104,1,India,Salty,Balaji Chips,0.34404343
+585,105,4,India,Bitter,Crispy Karela,0.5201383
+502,101,5,India,Spicy,Kurkure,0.6568198
+502,102,4,India,Sweet,Dairy Milk,0.42845753
+502,103,3,India,Sour,Dried Amla,0.33342373
+502,104,2,India,Salty,Balaji Chips,0.37994862
+502,105,1,India,Bitter,Crispy Karela,0.22914854
+247,101,5,India,Spicy,Kurkure,0.10044944
+247,102,1,India,Sweet,Dairy Milk,0.24817032
+247,103,5,India,Sour,Dried Amla,0.7517308
+247,104,2,India,Salty,Balaji Chips,0.5308658
+247,105,1,India,Bitter,Crispy Karela,0.41780826
+472,101,4,India,Spicy,Kurkure,0.13286546
+472,102,5,India,Sweet,Dairy Milk,0.69024533
+472,103,5,India,Sour,Dried Amla,0.8298429
+472,104,5,India,Salty,Balaji Chips,0.7641528
+472,105,2,India,Bitter,Crispy Karela,0.7891605
+389,101,1,India,Spicy,Kurkure,0.20777118
+389,102,3,India,Sweet,Dairy Milk,0.17124408
+389,103,4,India,Sour,Dried Amla,0.44867995
+389,104,1,India,Salty,Balaji Chips,0.7960355
+389,105,1,India,Bitter,Crispy Karela,0.83586764
+579,101,4,India,Spicy,Kurkure,0.6852994
+579,102,4,India,Sweet,Dairy Milk,0.40377966
+579,103,5,India,Sour,Dried Amla,0.46769267
+579,104,2,India,Salty,Balaji Chips,0.551955
+579,105,1,India,Bitter,Crispy Karela,0.39175358
+664,101,4,India,Spicy,Kurkure,0.7315786
+664,102,1,India,Sweet,Dairy Milk,0.49049833
+664,103,5,India,Sour,Dried Amla,0.5892456
+664,104,1,India,Salty,Balaji Chips,0.41247836
+664,105,1,India,Bitter,Crispy Karela,0.6605338
+870,101,1,India,Spicy,Kurkure,0.6270014
+870,102,2,India,Sweet,Dairy Milk,0.1172511
+870,103,4,India,Sour,Dried Amla,0.05093187
+870,104,1,India,Salty,Balaji Chips,0.08931437
+870,105,4,India,Bitter,Crispy Karela,0.21303394
+907,101,3,India,Spicy,Kurkure,0.088421494
+907,102,3,India,Sweet,Dairy Milk,0.029416412
+907,103,5,India,Sour,Dried Amla,0.7984525
+907,104,3,India,Salty,Balaji Chips,0.6682048
+907,105,2,India,Bitter,Crispy Karela,0.110195816
+758,101,5,India,Spicy,Kurkure,0.78856295
+758,102,2,India,Sweet,Dairy Milk,0.76147497
+758,103,3,India,Sour,Dried Amla,0.57139635
+758,104,3,India,Salty,Balaji Chips,0.43174544
+758,105,3,India,Bitter,Crispy Karela,0.68179977
+619,101,4,India,Spicy,Kurkure,0.56653476
+619,102,3,India,Sweet,Dairy Milk,0.8413875
+619,103,4,India,Sour,Dried Amla,0.54299563
+619,104,3,India,Salty,Balaji Chips,0.44519126
+619,105,5,India,Bitter,Crispy Karela,0.8245716
+237,101,4,India,Spicy,Kurkure,0.7163569
+237,102,4,India,Sweet,Dairy Milk,0.14252177
+237,103,4,India,Sour,Dried Amla,0.51326156
+237,104,2,India,Salty,Balaji Chips,0.4773442
+237,105,1,India,Bitter,Crispy Karela,0.6768604
+558,101,5,India,Spicy,Kurkure,0.32033983
+558,102,3,India,Sweet,Dairy Milk,0.73112345
+558,103,1,India,Sour,Dried Amla,0.30901882
+558,104,4,India,Salty,Balaji Chips,0.2580558
+558,105,1,India,Bitter,Crispy Karela,0.5784175
+646,101,4,India,Spicy,Kurkure,0.6983147
+646,102,4,India,Sweet,Dairy Milk,0.3693784
+646,103,3,India,Sour,Dried Amla,0.68251485
+646,104,3,India,Salty,Balaji Chips,0.5358883
+646,105,3,India,Bitter,Crispy Karela,0.6682207
+927,101,2,India,Spicy,Kurkure,0.277673
+927,102,4,India,Sweet,Dairy Milk,0.4402077
+927,103,5,India,Sour,Dried Amla,0.09008193
+927,104,5,India,Salty,Balaji Chips,0.40814623
+927,105,5,India,Bitter,Crispy Karela,0.6886274
+420,101,4,India,Spicy,Kurkure,0.66941404
+420,102,5,India,Sweet,Dairy Milk,0.04254517
+420,103,1,India,Sour,Dried Amla,0.6819294
+420,104,3,India,Salty,Balaji Chips,0.020974934
+420,105,1,India,Bitter,Crispy Karela,0.044170976
+472,101,4,India,Spicy,Kurkure,0.1375001
+472,102,4,India,Sweet,Dairy Milk,0.5504686
+472,103,5,India,Sour,Dried Amla,0.75980055
+472,104,4,India,Salty,Balaji Chips,0.623096
+472,105,3,India,Bitter,Crispy Karela,0.5196513
+518,101,1,India,Spicy,Kurkure,0.23076588
+518,102,4,India,Sweet,Dairy Milk,0.10663131
+518,103,4,India,Sour,Dried Amla,0.83120936
+518,104,3,India,Salty,Balaji Chips,0.10693058
+518,105,5,India,Bitter,Crispy Karela,0.58459926
+935,101,3,India,Spicy,Kurkure,0.25747293
+935,102,3,India,Sweet,Dairy Milk,0.8625823
+935,103,2,India,Sour,Dried Amla,0.7909554
+935,104,4,India,Salty,Balaji Chips,0.82798713
+935,105,2,India,Bitter,Crispy Karela,0.84437495
+825,101,1,India,Spicy,Kurkure,0.8672912
+825,102,3,India,Sweet,Dairy Milk,0.19919851
+825,103,5,India,Sour,Dried Amla,0.47642323
+825,104,3,India,Salty,Balaji Chips,0.85658026
+825,105,4,India,Bitter,Crispy Karela,0.47136453
+428,101,3,India,Spicy,Kurkure,0.67492056
+428,102,5,India,Sweet,Dairy Milk,0.1135011
+428,103,4,India,Sour,Dried Amla,0.28799272
+428,104,1,India,Salty,Balaji Chips,0.55624205
+428,105,4,India,Bitter,Crispy Karela,0.5311192
+449,101,2,India,Spicy,Kurkure,0.89511836
+449,102,3,India,Sweet,Dairy Milk,0.15623957
+449,103,3,India,Sour,Dried Amla,0.46104583
+449,104,3,India,Salty,Balaji Chips,0.31093362
+449,105,5,India,Bitter,Crispy Karela,0.14582434
+565,101,4,India,Spicy,Kurkure,0.82986975
+565,102,3,India,Sweet,Dairy Milk,0.23106238
+565,103,3,India,Sour,Dried Amla,0.22614849
+565,104,4,India,Salty,Balaji Chips,0.13179767
+565,105,2,India,Bitter,Crispy Karela,0.8447852
+716,101,2,India,Spicy,Kurkure,0.6398181
+716,102,5,India,Sweet,Dairy Milk,0.42554086
+716,103,2,India,Sour,Dried Amla,0.75136614
+716,104,3,India,Salty,Balaji Chips,0.03015247
+716,105,1,India,Bitter,Crispy Karela,0.716603
+597,101,1,India,Spicy,Kurkure,0.60947305
+597,102,2,India,Sweet,Dairy Milk,0.1361407
+597,103,5,India,Sour,Dried Amla,0.6761455
+597,104,4,India,Salty,Balaji Chips,0.13508481
+597,105,5,India,Bitter,Crispy Karela,0.20110291
+687,101,4,India,Spicy,Kurkure,0.18146485
+687,102,3,India,Sweet,Dairy Milk,0.007236153
+687,103,4,India,Sour,Dried Amla,0.08414537
+687,104,3,India,Salty,Balaji Chips,0.49799573
+687,105,3,India,Bitter,Crispy Karela,0.6364775
+279,101,1,India,Spicy,Kurkure,0.13691193
+279,102,1,India,Sweet,Dairy Milk,0.60706544
+279,103,4,India,Sour,Dried Amla,0.2213516
+279,104,5,India,Salty,Balaji Chips,0.64743066
+279,105,1,India,Bitter,Crispy Karela,0.46870255
+319,101,2,India,Spicy,Kurkure,0.7613815
+319,102,2,India,Sweet,Dairy Milk,0.53384453
+319,103,3,India,Sour,Dried Amla,0.67788786
+319,104,4,India,Salty,Balaji Chips,0.60049045
+319,105,3,India,Bitter,Crispy Karela,0.2774849
+234,101,4,India,Spicy,Kurkure,0.6003971
+234,102,2,India,Sweet,Dairy Milk,0.41460618
+234,103,2,India,Sour,Dried Amla,0.37805766
+234,104,1,India,Salty,Balaji Chips,0.3246623
+234,105,5,India,Bitter,Crispy Karela,0.35758996
+900,101,1,India,Spicy,Kurkure,0.68495286
+900,102,5,India,Sweet,Dairy Milk,0.7262629
+900,103,2,India,Sour,Dried Amla,0.29037732
+900,104,3,India,Salty,Balaji Chips,0.3601362
+900,105,3,India,Bitter,Crispy Karela,0.45919025
+132,101,4,India,Spicy,Kurkure,0.6546857
+132,102,1,India,Sweet,Dairy Milk,0.47563574
+132,103,5,India,Sour,Dried Amla,0.57217205
+132,104,1,India,Salty,Balaji Chips,0.7111281
+132,105,5,India,Bitter,Crispy Karela,0.20512012
+911,101,5,India,Spicy,Kurkure,0.5492885
+911,102,1,India,Sweet,Dairy Milk,0.8126998
+911,103,4,India,Sour,Dried Amla,0.4917285
+911,104,3,India,Salty,Balaji Chips,0.64424616
+911,105,3,India,Bitter,Crispy Karela,0.36128742
+768,101,3,India,Spicy,Kurkure,0.642362
+768,102,3,India,Sweet,Dairy Milk,0.6326469
+768,103,2,India,Sour,Dried Amla,0.3272277
+768,104,2,India,Salty,Balaji Chips,0.24722373
+768,105,5,India,Bitter,Crispy Karela,0.73400354
+392,101,2,India,Spicy,Kurkure,0.8061436
+392,102,4,India,Sweet,Dairy Milk,0.4149275
+392,103,1,India,Sour,Dried Amla,0.4130495
+392,104,5,India,Salty,Balaji Chips,0.71089315
+392,105,2,India,Bitter,Crispy Karela,0.56570524
+986,101,3,India,Spicy,Kurkure,0.29693383
+986,102,4,India,Sweet,Dairy Milk,0.7697868
+986,103,5,India,Sour,Dried Amla,0.25827873
+986,104,2,India,Salty,Balaji Chips,0.6520979
+986,105,4,India,Bitter,Crispy Karela,0.3812546
+715,101,3,India,Spicy,Kurkure,0.64104605
+715,102,3,India,Sweet,Dairy Milk,0.65291923
+715,103,4,India,Sour,Dried Amla,0.6479777
+715,104,5,India,Salty,Balaji Chips,0.35276377
+715,105,2,India,Bitter,Crispy Karela,0.58683026
+3,101,4,India,Spicy,Kurkure,0.32319754
+3,102,2,India,Sweet,Dairy Milk,0.7445499
+3,103,4,India,Sour,Dried Amla,0.11024779
+3,104,3,India,Salty,Balaji Chips,0.629215
+3,105,1,India,Bitter,Crispy Karela,0.4413995
+307,101,5,India,Spicy,Kurkure,0.06988272
+307,102,3,India,Sweet,Dairy Milk,0.29624864
+307,103,2,India,Sour,Dried Amla,0.7880188
+307,104,2,India,Salty,Balaji Chips,0.80112743
+307,105,1,India,Bitter,Crispy Karela,0.72943175
+554,101,1,India,Spicy,Kurkure,0.063584596
+554,102,2,India,Sweet,Dairy Milk,0.019308865
+554,103,3,India,Sour,Dried Amla,0.061012
+554,104,2,India,Salty,Balaji Chips,0.024479777
+554,105,5,India,Bitter,Crispy Karela,0.52985
+345,101,4,India,Spicy,Kurkure,0.6257161
+345,102,3,India,Sweet,Dairy Milk,0.108157724
+345,103,2,India,Sour,Dried Amla,0.27648452
+345,104,1,India,Salty,Balaji Chips,0.26891553
+345,105,3,India,Bitter,Crispy Karela,0.67840314
+551,101,2,India,Spicy,Kurkure,0.66512454
+551,102,2,India,Sweet,Dairy Milk,0.6428826
+551,103,5,India,Sour,Dried Amla,0.505709
+551,104,2,India,Salty,Balaji Chips,0.4885452
+551,105,3,India,Bitter,Crispy Karela,0.4279604
+966,101,5,India,Spicy,Kurkure,0.68682706
+966,102,5,India,Sweet,Dairy Milk,0.70505744
+966,103,3,India,Sour,Dried Amla,0.59186494
+966,104,2,India,Salty,Balaji Chips,0.48659003
+966,105,5,India,Bitter,Crispy Karela,0.498583
+604,101,1,India,Spicy,Kurkure,0.20161769
+604,102,5,India,Sweet,Dairy Milk,0.38377318
+604,103,2,India,Sour,Dried Amla,0.0774675
+604,104,2,India,Salty,Balaji Chips,0.3545677
+604,105,4,India,Bitter,Crispy Karela,0.6563504
+346,101,5,India,Spicy,Kurkure,0.76589227
+346,102,2,India,Sweet,Dairy Milk,0.3327018
+346,103,3,India,Sour,Dried Amla,0.3595161
+346,104,3,India,Salty,Balaji Chips,0.43478554
+346,105,4,India,Bitter,Crispy Karela,0.5208184
+163,101,2,India,Spicy,Kurkure,0.6211041
+163,102,1,India,Sweet,Dairy Milk,0.4480817
+163,103,3,India,Sour,Dried Amla,0.35686553
+163,104,4,India,Salty,Balaji Chips,0.3294284
+163,105,3,India,Bitter,Crispy Karela,0.61978245
+325,101,3,India,Spicy,Kurkure,0.6949069
+325,102,3,India,Sweet,Dairy Milk,0.66047674
+325,103,3,India,Sour,Dried Amla,0.71061707
+325,104,1,India,Salty,Balaji Chips,0.50334144
+325,105,3,India,Bitter,Crispy Karela,0.17151314
+715,101,2,India,Spicy,Kurkure,0.45633483
+715,102,4,India,Sweet,Dairy Milk,0.6306748
+715,103,4,India,Sour,Dried Amla,0.52864987
+715,104,2,India,Salty,Balaji Chips,0.45471698
+715,105,5,India,Bitter,Crispy Karela,0.29676116
+167,101,5,India,Spicy,Kurkure,0.7775205
+167,102,3,India,Sweet,Dairy Milk,0.7856636
+167,103,5,India,Sour,Dried Amla,0.2322748
+167,104,1,India,Salty,Balaji Chips,0.8288684
+167,105,5,India,Bitter,Crispy Karela,0.46355993
+906,101,3,India,Spicy,Kurkure,0.22003442
+906,102,3,India,Sweet,Dairy Milk,0.47152308
+906,103,2,India,Sour,Dried Amla,0.8305234
+906,104,3,India,Salty,Balaji Chips,0.59935033
+906,105,4,India,Bitter,Crispy Karela,0.438967
+792,101,3,India,Spicy,Kurkure,0.87399304
+792,102,1,India,Sweet,Dairy Milk,0.454793
+792,103,4,India,Sour,Dried Amla,0.22996432
+792,104,5,India,Salty,Balaji Chips,0.33027703
+792,105,3,India,Bitter,Crispy Karela,0.12675092
+333,101,1,India,Spicy,Kurkure,0.41665128
+333,102,1,India,Sweet,Dairy Milk,0.09817311
+333,103,5,India,Sour,Dried Amla,0.55573815
+333,104,1,India,Salty,Balaji Chips,0.31049946
+333,105,5,India,Bitter,Crispy Karela,0.35204977
+182,101,5,India,Spicy,Kurkure,0.16884202
+182,102,3,India,Sweet,Dairy Milk,0.5742158
+182,103,4,India,Sour,Dried Amla,0.34887522
+182,104,5,India,Salty,Balaji Chips,0.68105245
+182,105,4,India,Bitter,Crispy Karela,0.35261136
+1000,101,2,India,Spicy,Kurkure,0.26249322
+1000,102,5,India,Sweet,Dairy Milk,0.15672201
+1000,103,2,India,Sour,Dried Amla,0.32989663
+1000,104,5,India,Salty,Balaji Chips,0.31349766
+1000,105,2,India,Bitter,Crispy Karela,0.6039217
+618,101,3,India,Spicy,Kurkure,0.7324782
+618,102,2,India,Sweet,Dairy Milk,0.065276
+618,103,5,India,Sour,Dried Amla,0.50264996
+618,104,4,India,Salty,Balaji Chips,0.6114124
+618,105,2,India,Bitter,Crispy Karela,0.6785042
+431,101,2,India,Spicy,Kurkure,0.5162052
+431,102,3,India,Sweet,Dairy Milk,0.4844215
+431,103,5,India,Sour,Dried Amla,0.62547183
+431,104,5,India,Salty,Balaji Chips,0.168852
+431,105,1,India,Bitter,Crispy Karela,0.28284943
+507,101,1,India,Spicy,Kurkure,0.16413626
+507,102,1,India,Sweet,Dairy Milk,0.7517645
+507,103,4,India,Sour,Dried Amla,0.38941714
+507,104,3,India,Salty,Balaji Chips,0.34160012
+507,105,4,India,Bitter,Crispy Karela,0.4140106
+839,101,5,India,Spicy,Kurkure,0.19622675
+839,102,5,India,Sweet,Dairy Milk,0.82999855
+839,103,2,India,Sour,Dried Amla,0.31755847
+839,104,5,India,Salty,Balaji Chips,0.6951317
+839,105,5,India,Bitter,Crispy Karela,0.33703756

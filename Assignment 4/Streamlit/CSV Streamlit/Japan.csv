@@ -1,0 +1,516 @@
+userId,Product_Id,Ratings,Country,Category,Product Name,Prediction Score
+689,401,1,Japan,Spicy,Habanero chips ,0.85938245
+689,402,1,Japan,Sweet,Tohato Caramel,0.3712924
+689,403,4,Japan,Sour,Lotte Koume,0.8178644
+689,404,4,Japan,Salty,Senbei,0.29889113
+689,405,2,Japan,Bitter,Bitter Almond Kitkat,0.35776737
+689,406,3,Japan,Sweet,Kaju Gummy,0.5857387
+689,407,5,Japan,Salty,Castella Butter,0.4127109
+689,408,4,Japan,Sweet,Dora Coco,0.70246494
+689,409,2,Japan,Sweet,Picola Chocolate,0.37219948
+689,410,4,Japan,Sour,Blueberry Tart,0.80079174
+745,401,5,Japan,Spicy,Habanero chips ,0.55680376
+745,402,1,Japan,Sweet,Tohato Caramel,0.5857387
+745,403,5,Japan,Sour,Lotte Koume,0.4127109
+745,404,4,Japan,Salty,Senbei,0.70246494
+745,405,1,Japan,Bitter,Bitter Almond Kitkat,0.37219948
+657,401,2,Japan,Spicy,Habanero chips ,0.80079174
+657,402,2,Japan,Sweet,Tohato Caramel,0.55680376
+657,403,1,Japan,Sour,Lotte Koume,0.4496776
+657,404,1,Japan,Salty,Senbei,0.3018753
+657,405,2,Japan,Bitter,Bitter Almond Kitkat,0.7310723
+559,401,4,Japan,Spicy,Habanero chips ,0.09441984
+559,402,3,Japan,Sweet,Tohato Caramel,0.68378776
+559,403,4,Japan,Sour,Lotte Koume,0.51809174
+559,404,4,Japan,Salty,Senbei,0.123775035
+559,405,5,Japan,Bitter,Bitter Almond Kitkat,0.26765004
+569,401,5,Japan,Spicy,Habanero chips ,0.69818664
+569,402,3,Japan,Sweet,Tohato Caramel,0.26993686
+569,403,5,Japan,Sour,Lotte Koume,0.53443676
+569,404,3,Japan,Salty,Senbei,0.64220774
+569,405,1,Japan,Bitter,Bitter Almond Kitkat,0.76461923
+41,411,2,Japan,Spicy,Uma Kara Spicy,0.61289686
+41,412,2,Japan,Spicy,Okinawa Soba,0.3972506
+41,413,3,Japan,Sour,Candied Yuzu Peel,0.5627214
+41,414,5,Japan,Sweet,Sakura Candy,0.043453246
+41,415,3,Japan,Sweet,Maple Butter Cookie,0.08639586
+41,401,4,Japan,Spicy,Habanero chips ,0.27186543
+41,402,3,Japan,Sweet,Tohato Caramel,0.8040713
+41,403,1,Japan,Sour,Lotte Koume,0.27671295
+41,404,3,Japan,Salty,Senbei,0.328181
+41,405,3,Japan,Bitter,Bitter Almond Kitkat,0.7332927
+860,401,5,Japan,Spicy,Habanero chips ,0.68070376
+860,402,4,Japan,Sweet,Tohato Caramel,0.61289686
+860,403,1,Japan,Sour,Lotte Koume,0.3972506
+860,404,2,Japan,Salty,Senbei,0.5627214
+860,405,4,Japan,Bitter,Bitter Almond Kitkat,0.043453246
+129,401,2,Japan,Spicy,Habanero chips ,0.08639586
+129,402,5,Japan,Sweet,Tohato Caramel,0.04631436
+129,403,4,Japan,Sour,Lotte Koume,0.079604656
+129,404,5,Japan,Salty,Senbei,0.063720256
+129,405,4,Japan,Bitter,Bitter Almond Kitkat,0.7171848
+287,401,1,Japan,Spicy,Habanero chips ,0.04535243
+287,402,2,Japan,Sweet,Tohato Caramel,0.32902122
+287,403,4,Japan,Sour,Lotte Koume,0.22213694
+287,404,5,Japan,Salty,Senbei,0.5641794
+287,405,3,Japan,Bitter,Bitter Almond Kitkat,0.7244333
+205,413,3,Japan,Sour,Candied Yuzu Peel,0.5627214
+205,409,2,Japan,Sweet,Picola Chocolate,0.37219948
+205,414,5,Japan,Sweet,Sakura Candy,0.043453246
+205,401,2,Japan,Spicy,Habanero chips ,0.21744984
+205,402,4,Japan,Sweet,Tohato Caramel,0.14498225
+41,415,3,Japan,Sweet,Maple Butter Cookie,0.08639586
+205,407,5,Japan,Salty,Castella Butter,0.4127109
+205,403,5,Japan,Sour,Lotte Koume,0.1702373
+205,404,2,Japan,Salty,Senbei,0.6344961
+205,405,4,Japan,Bitter,Bitter Almond Kitkat,0.19195363
+820,401,5,Japan,Spicy,Habanero chips ,0.13745883
+820,402,2,Japan,Sweet,Tohato Caramel,0.021034926
+820,403,1,Japan,Sour,Lotte Koume,0.22401232
+820,404,1,Japan,Salty,Senbei,0.6755791
+820,405,4,Japan,Bitter,Bitter Almond Kitkat,0.7350651
+608,401,5,Japan,Spicy,Habanero chips ,0.3765103
+608,402,4,Japan,Sweet,Tohato Caramel,0.35483027
+608,403,3,Japan,Sour,Lotte Koume,0.27123934
+608,404,5,Japan,Salty,Senbei,0.7730228
+608,405,4,Japan,Bitter,Bitter Almond Kitkat,0.48663497
+134,401,4,Japan,Spicy,Habanero chips ,0.57169825
+134,402,5,Japan,Sweet,Tohato Caramel,0.66870844
+134,403,1,Japan,Sour,Lotte Koume,0.42685246
+134,404,2,Japan,Salty,Senbei,0.3076812
+134,405,1,Japan,Bitter,Bitter Almond Kitkat,0.14927825
+898,401,1,Japan,Spicy,Habanero chips ,0.38755092
+898,402,3,Japan,Sweet,Tohato Caramel,0.14504507
+898,403,2,Japan,Sour,Lotte Koume,0.25012952
+898,404,1,Japan,Salty,Senbei,0.35067075
+898,405,1,Japan,Bitter,Bitter Almond Kitkat,0.36252034
+497,401,2,Japan,Spicy,Habanero chips ,0.29149073
+497,402,4,Japan,Sweet,Tohato Caramel,0.7955072
+497,403,4,Japan,Sour,Lotte Koume,0.29793978
+497,404,1,Japan,Salty,Senbei,0.10834107
+497,405,5,Japan,Bitter,Bitter Almond Kitkat,0.88206977
+823,401,2,Japan,Spicy,Habanero chips ,0.18570039
+823,402,4,Japan,Sweet,Tohato Caramel,0.35535467
+823,403,1,Japan,Sour,Lotte Koume,0.26977384
+823,404,5,Japan,Salty,Senbei,0.3090228
+823,405,1,Japan,Bitter,Bitter Almond Kitkat,0.57075036
+560,401,4,Japan,Spicy,Habanero chips ,0.19824505
+560,402,2,Japan,Sweet,Tohato Caramel,0.13127625
+560,403,5,Japan,Sour,Lotte Koume,0.364056
+560,404,1,Japan,Salty,Senbei,0.25135362
+560,405,3,Japan,Bitter,Bitter Almond Kitkat,0.34311485
+594,401,4,Japan,Spicy,Habanero chips ,0.38507807
+594,402,4,Japan,Sweet,Tohato Caramel,0.49472424
+594,403,1,Japan,Sour,Lotte Koume,0.43551594
+594,404,4,Japan,Salty,Senbei,0.7031345
+594,405,5,Japan,Bitter,Bitter Almond Kitkat,0.62811136
+176,401,2,Japan,Spicy,Habanero chips ,0.22469488
+176,402,3,Japan,Sweet,Tohato Caramel,0.31916025
+176,403,1,Japan,Sour,Lotte Koume,0.3878121
+176,404,4,Japan,Salty,Senbei,0.4713289
+176,405,3,Japan,Bitter,Bitter Almond Kitkat,0.81447935
+56,401,5,Japan,Spicy,Habanero chips ,0.39014417
+56,402,2,Japan,Sweet,Tohato Caramel,0.40883794
+56,403,5,Japan,Sour,Lotte Koume,0.40429547
+56,404,1,Japan,Salty,Senbei,0.46044153
+56,405,2,Japan,Bitter,Bitter Almond Kitkat,0.7434552
+272,401,5,Japan,Spicy,Habanero chips ,0.49862093
+272,402,4,Japan,Sweet,Tohato Caramel,0.21128199
+272,403,3,Japan,Sour,Lotte Koume,0.1854966
+272,404,2,Japan,Salty,Senbei,0.4286091
+272,405,1,Japan,Bitter,Bitter Almond Kitkat,0.52639854
+431,401,2,Japan,Spicy,Habanero chips ,0.35573357
+431,402,5,Japan,Sweet,Tohato Caramel,0.5752342
+431,403,2,Japan,Sour,Lotte Koume,0.3334459
+431,404,1,Japan,Salty,Senbei,0.5774424
+431,405,4,Japan,Bitter,Bitter Almond Kitkat,0.43376282
+129,401,1,Japan,Spicy,Habanero chips ,0.13366869
+129,402,5,Japan,Sweet,Tohato Caramel,0.4467825
+129,403,2,Japan,Sour,Lotte Koume,0.6882006
+129,404,3,Japan,Salty,Senbei,0.29714942
+129,405,3,Japan,Bitter,Bitter Almond Kitkat,0.50286
+486,401,2,Japan,Spicy,Habanero chips ,0.5802693
+486,402,3,Japan,Sweet,Tohato Caramel,0.5042272
+486,403,1,Japan,Sour,Lotte Koume,0.25487143
+486,404,1,Japan,Salty,Senbei,0.6554722
+486,405,3,Japan,Bitter,Bitter Almond Kitkat,0.40801036
+988,401,5,Japan,Spicy,Habanero chips ,0.47277683
+988,402,4,Japan,Sweet,Tohato Caramel,0.48699564
+988,403,1,Japan,Sour,Lotte Koume,0.40945143
+988,404,1,Japan,Salty,Senbei,0.7423383
+988,405,1,Japan,Bitter,Bitter Almond Kitkat,0.67319006
+340,401,4,Japan,Spicy,Habanero chips ,0.3390992
+340,402,2,Japan,Sweet,Tohato Caramel,0.36365736
+340,403,1,Japan,Sour,Lotte Koume,0.54325116
+340,404,1,Japan,Salty,Senbei,0.50134087
+340,405,2,Japan,Bitter,Bitter Almond Kitkat,0.41274366
+523,401,1,Japan,Spicy,Habanero chips ,0.5202547
+523,402,5,Japan,Sweet,Tohato Caramel,0.34316266
+523,403,1,Japan,Sour,Lotte Koume,0.4843146
+523,404,1,Japan,Salty,Senbei,0.5218575
+523,405,2,Japan,Bitter,Bitter Almond Kitkat,0.51891506
+338,401,1,Japan,Spicy,Habanero chips ,0.4842017
+338,402,2,Japan,Sweet,Tohato Caramel,0.44949383
+338,403,3,Japan,Sour,Lotte Koume,0.1656282
+338,404,2,Japan,Salty,Senbei,0.36529508
+338,405,1,Japan,Bitter,Bitter Almond Kitkat,0.11491889
+271,401,2,Japan,Spicy,Habanero chips ,0.32382935
+271,402,3,Japan,Sweet,Tohato Caramel,0.46874306
+271,403,1,Japan,Sour,Lotte Koume,0.43500015
+271,404,5,Japan,Salty,Senbei,0.7339521
+271,405,4,Japan,Bitter,Bitter Almond Kitkat,0.32572645
+976,401,4,Japan,Spicy,Habanero chips ,0.61996007
+976,402,4,Japan,Sweet,Tohato Caramel,0.7573565
+976,403,3,Japan,Sour,Lotte Koume,0.3040269
+976,404,2,Japan,Salty,Senbei,0.30267876
+976,405,1,Japan,Bitter,Bitter Almond Kitkat,0.11747083
+393,401,2,Japan,Spicy,Habanero chips ,0.20752013
+393,402,4,Japan,Sweet,Tohato Caramel,0.19123149
+393,403,1,Japan,Sour,Lotte Koume,0.48268318
+393,404,1,Japan,Salty,Senbei,0.26438445
+393,405,4,Japan,Bitter,Bitter Almond Kitkat,0.6815084
+774,401,5,Japan,Spicy,Habanero chips ,0.518053
+774,402,1,Japan,Sweet,Tohato Caramel,0.69458604
+774,403,2,Japan,Sour,Lotte Koume,0.48965937
+774,404,5,Japan,Salty,Senbei,0.5376569
+774,405,4,Japan,Bitter,Bitter Almond Kitkat,0.4632828
+762,401,1,Japan,Spicy,Habanero chips ,0.22828996
+762,402,2,Japan,Sweet,Tohato Caramel,0.4019586
+762,403,3,Japan,Sour,Lotte Koume,0.34404343
+762,404,1,Japan,Salty,Senbei,0.5201383
+762,405,5,Japan,Bitter,Bitter Almond Kitkat,0.6568198
+520,401,3,Japan,Spicy,Habanero chips ,0.42845753
+520,402,5,Japan,Sweet,Tohato Caramel,0.33342373
+520,403,2,Japan,Sour,Lotte Koume,0.37994862
+520,404,3,Japan,Salty,Senbei,0.22914854
+520,405,3,Japan,Bitter,Bitter Almond Kitkat,0.10044944
+652,401,2,Japan,Spicy,Habanero chips ,0.24817032
+652,402,1,Japan,Sweet,Tohato Caramel,0.7517308
+652,403,4,Japan,Sour,Lotte Koume,0.5308658
+652,404,5,Japan,Salty,Senbei,0.41780826
+652,405,2,Japan,Bitter,Bitter Almond Kitkat,0.13286546
+304,401,5,Japan,Spicy,Habanero chips ,0.69024533
+304,402,5,Japan,Sweet,Tohato Caramel,0.8298429
+304,403,4,Japan,Sour,Lotte Koume,0.7641528
+304,404,4,Japan,Salty,Senbei,0.7891605
+304,405,1,Japan,Bitter,Bitter Almond Kitkat,0.20777118
+724,401,4,Japan,Spicy,Habanero chips ,0.17124408
+724,402,2,Japan,Sweet,Tohato Caramel,0.44867995
+724,403,1,Japan,Sour,Lotte Koume,0.7960355
+724,404,5,Japan,Salty,Senbei,0.83586764
+724,405,4,Japan,Bitter,Bitter Almond Kitkat,0.6852994
+969,401,4,Japan,Spicy,Habanero chips ,0.40377966
+969,402,1,Japan,Sweet,Tohato Caramel,0.46769267
+969,403,2,Japan,Sour,Lotte Koume,0.551955
+969,404,4,Japan,Salty,Senbei,0.39175358
+969,405,5,Japan,Bitter,Bitter Almond Kitkat,0.7315786
+79,401,4,Japan,Spicy,Habanero chips ,0.49049833
+79,402,1,Japan,Sweet,Tohato Caramel,0.5892456
+79,403,1,Japan,Sour,Lotte Koume,0.41247836
+79,404,1,Japan,Salty,Senbei,0.6605338
+79,405,5,Japan,Bitter,Bitter Almond Kitkat,0.6270014
+336,401,2,Japan,Spicy,Habanero chips ,0.1172511
+336,402,3,Japan,Sweet,Tohato Caramel,0.05093187
+336,403,1,Japan,Sour,Lotte Koume,0.08931437
+336,404,4,Japan,Salty,Senbei,0.21303394
+336,405,4,Japan,Bitter,Bitter Almond Kitkat,0.088421494
+25,401,1,Japan,Spicy,Habanero chips ,0.029416412
+25,402,2,Japan,Sweet,Tohato Caramel,0.7984525
+25,403,2,Japan,Sour,Lotte Koume,0.6682048
+25,404,5,Japan,Salty,Senbei,0.110195816
+25,405,2,Japan,Bitter,Bitter Almond Kitkat,0.78856295
+671,401,5,Japan,Spicy,Habanero chips ,0.76147497
+671,402,2,Japan,Sweet,Tohato Caramel,0.57139635
+671,403,3,Japan,Sour,Lotte Koume,0.43174544
+671,404,2,Japan,Salty,Senbei,0.68179977
+671,405,1,Japan,Bitter,Bitter Almond Kitkat,0.56653476
+865,401,5,Japan,Spicy,Habanero chips ,0.8413875
+865,402,4,Japan,Sweet,Tohato Caramel,0.54299563
+865,403,2,Japan,Sour,Lotte Koume,0.44519126
+865,404,3,Japan,Salty,Senbei,0.8245716
+865,405,2,Japan,Bitter,Bitter Almond Kitkat,0.7163569
+585,401,2,Japan,Spicy,Habanero chips ,0.14252177
+585,402,5,Japan,Sweet,Tohato Caramel,0.51326156
+585,403,3,Japan,Sour,Lotte Koume,0.4773442
+585,404,3,Japan,Salty,Senbei,0.6768604
+585,405,4,Japan,Bitter,Bitter Almond Kitkat,0.32033983
+502,401,2,Japan,Spicy,Habanero chips ,0.73112345
+502,402,2,Japan,Sweet,Tohato Caramel,0.30901882
+502,403,4,Japan,Sour,Lotte Koume,0.2580558
+502,404,3,Japan,Salty,Senbei,0.5784175
+502,405,2,Japan,Bitter,Bitter Almond Kitkat,0.6983147
+247,401,4,Japan,Spicy,Habanero chips ,0.3693784
+247,402,4,Japan,Sweet,Tohato Caramel,0.68251485
+247,403,1,Japan,Sour,Lotte Koume,0.5358883
+247,404,5,Japan,Salty,Senbei,0.6682207
+247,405,3,Japan,Bitter,Bitter Almond Kitkat,0.277673
+472,401,5,Japan,Spicy,Habanero chips ,0.4402077
+472,402,2,Japan,Sweet,Tohato Caramel,0.09008193
+472,403,3,Japan,Sour,Lotte Koume,0.40814623
+472,404,4,Japan,Salty,Senbei,0.6886274
+472,405,2,Japan,Bitter,Bitter Almond Kitkat,0.66941404
+389,401,1,Japan,Spicy,Habanero chips ,0.04254517
+389,402,5,Japan,Sweet,Tohato Caramel,0.6819294
+389,403,1,Japan,Sour,Lotte Koume,0.020974934
+389,404,3,Japan,Salty,Senbei,0.044170976
+389,405,5,Japan,Bitter,Bitter Almond Kitkat,0.1375001
+579,401,3,Japan,Spicy,Habanero chips ,0.5504686
+579,402,5,Japan,Sweet,Tohato Caramel,0.75980055
+579,403,5,Japan,Sour,Lotte Koume,0.623096
+579,404,3,Japan,Salty,Senbei,0.5196513
+579,405,4,Japan,Bitter,Bitter Almond Kitkat,0.23076588
+664,401,2,Japan,Spicy,Habanero chips ,0.10663131
+664,402,4,Japan,Sweet,Tohato Caramel,0.83120936
+664,403,3,Japan,Sour,Lotte Koume,0.10693058
+664,404,1,Japan,Salty,Senbei,0.58459926
+664,405,5,Japan,Bitter,Bitter Almond Kitkat,0.25747293
+870,401,2,Japan,Spicy,Habanero chips ,0.8625823
+870,402,1,Japan,Sweet,Tohato Caramel,0.7909554
+870,403,4,Japan,Sour,Lotte Koume,0.82798713
+870,404,5,Japan,Salty,Senbei,0.84437495
+870,405,3,Japan,Bitter,Bitter Almond Kitkat,0.8672912
+907,401,2,Japan,Spicy,Habanero chips ,0.19919851
+907,402,2,Japan,Sweet,Tohato Caramel,0.47642323
+907,403,1,Japan,Sour,Lotte Koume,0.85658026
+907,404,4,Japan,Salty,Senbei,0.47136453
+907,405,4,Japan,Bitter,Bitter Almond Kitkat,0.67492056
+758,401,2,Japan,Spicy,Habanero chips ,0.1135011
+758,402,2,Japan,Sweet,Tohato Caramel,0.28799272
+758,403,2,Japan,Sour,Lotte Koume,0.55624205
+758,404,3,Japan,Salty,Senbei,0.5311192
+758,405,2,Japan,Bitter,Bitter Almond Kitkat,0.89511836
+619,401,3,Japan,Spicy,Habanero chips ,0.15623957
+619,402,3,Japan,Sweet,Tohato Caramel,0.46104583
+619,403,3,Japan,Sour,Lotte Koume,0.31093362
+619,404,1,Japan,Salty,Senbei,0.14582434
+619,405,5,Japan,Bitter,Bitter Almond Kitkat,0.82986975
+237,401,3,Japan,Spicy,Habanero chips ,0.23106238
+237,402,1,Japan,Sweet,Tohato Caramel,0.22614849
+237,403,1,Japan,Sour,Lotte Koume,0.13179767
+237,404,1,Japan,Salty,Senbei,0.8447852
+237,405,3,Japan,Bitter,Bitter Almond Kitkat,0.6398181
+558,401,4,Japan,Spicy,Habanero chips ,0.42554086
+558,402,2,Japan,Sweet,Tohato Caramel,0.75136614
+558,403,5,Japan,Sour,Lotte Koume,0.03015247
+558,404,3,Japan,Salty,Senbei,0.716603
+558,405,3,Japan,Bitter,Bitter Almond Kitkat,0.60947305
+646,401,5,Japan,Spicy,Habanero chips ,0.1361407
+646,402,2,Japan,Sweet,Tohato Caramel,0.6761455
+646,403,1,Japan,Sour,Lotte Koume,0.13508481
+646,404,2,Japan,Salty,Senbei,0.20110291
+646,405,3,Japan,Bitter,Bitter Almond Kitkat,0.18146485
+927,401,1,Japan,Spicy,Habanero chips ,0.007236153
+927,402,3,Japan,Sweet,Tohato Caramel,0.08414537
+927,403,5,Japan,Sour,Lotte Koume,0.49799573
+927,404,4,Japan,Salty,Senbei,0.6364775
+927,405,3,Japan,Bitter,Bitter Almond Kitkat,0.13691193
+420,401,5,Japan,Spicy,Habanero chips ,0.60706544
+420,402,1,Japan,Sweet,Tohato Caramel,0.2213516
+420,403,5,Japan,Sour,Lotte Koume,0.64743066
+420,404,1,Japan,Salty,Senbei,0.46870255
+420,405,2,Japan,Bitter,Bitter Almond Kitkat,0.7613815
+472,401,3,Japan,Spicy,Habanero chips ,0.53384453
+472,402,1,Japan,Sweet,Tohato Caramel,0.67788786
+472,403,3,Japan,Sour,Lotte Koume,0.60049045
+472,404,4,Japan,Salty,Senbei,0.2774849
+472,405,1,Japan,Bitter,Bitter Almond Kitkat,0.6003971
+518,401,2,Japan,Spicy,Habanero chips ,0.41460618
+518,402,3,Japan,Sweet,Tohato Caramel,0.37805766
+518,403,1,Japan,Sour,Lotte Koume,0.3246623
+518,404,5,Japan,Salty,Senbei,0.35758996
+518,405,1,Japan,Bitter,Bitter Almond Kitkat,0.68495286
+935,401,4,Japan,Spicy,Habanero chips ,0.7262629
+935,402,3,Japan,Sweet,Tohato Caramel,0.29037732
+935,403,2,Japan,Sour,Lotte Koume,0.3601362
+935,404,3,Japan,Salty,Senbei,0.45919025
+935,405,1,Japan,Bitter,Bitter Almond Kitkat,0.6546857
+825,401,4,Japan,Spicy,Habanero chips ,0.47563574
+825,402,2,Japan,Sweet,Tohato Caramel,0.57217205
+825,403,4,Japan,Sour,Lotte Koume,0.7111281
+825,404,4,Japan,Salty,Senbei,0.20512012
+825,405,5,Japan,Bitter,Bitter Almond Kitkat,0.5492885
+428,401,3,Japan,Spicy,Habanero chips ,0.8126998
+428,402,3,Japan,Sweet,Tohato Caramel,0.4917285
+428,403,3,Japan,Sour,Lotte Koume,0.64424616
+428,404,1,Japan,Salty,Senbei,0.36128742
+428,405,3,Japan,Bitter,Bitter Almond Kitkat,0.642362
+449,401,4,Japan,Spicy,Habanero chips ,0.6326469
+449,402,1,Japan,Sweet,Tohato Caramel,0.3272277
+449,403,3,Japan,Sour,Lotte Koume,0.24722373
+449,404,4,Japan,Salty,Senbei,0.73400354
+449,405,5,Japan,Bitter,Bitter Almond Kitkat,0.8061436
+565,401,3,Japan,Spicy,Habanero chips ,0.4149275
+565,402,2,Japan,Sweet,Tohato Caramel,0.4130495
+565,403,3,Japan,Sour,Lotte Koume,0.71089315
+565,404,3,Japan,Salty,Senbei,0.56570524
+565,405,1,Japan,Bitter,Bitter Almond Kitkat,0.29693383
+716,401,5,Japan,Spicy,Habanero chips ,0.7697868
+716,402,4,Japan,Sweet,Tohato Caramel,0.25827873
+716,403,3,Japan,Sour,Lotte Koume,0.6520979
+716,404,2,Japan,Salty,Senbei,0.3812546
+716,405,2,Japan,Bitter,Bitter Almond Kitkat,0.64104605
+597,401,4,Japan,Spicy,Habanero chips ,0.65291923
+597,402,5,Japan,Sweet,Tohato Caramel,0.6479777
+597,403,1,Japan,Sour,Lotte Koume,0.35276377
+597,404,5,Japan,Salty,Senbei,0.58683026
+597,405,1,Japan,Bitter,Bitter Almond Kitkat,0.32319754
+687,401,2,Japan,Spicy,Habanero chips ,0.7445499
+687,402,5,Japan,Sweet,Tohato Caramel,0.11024779
+687,403,1,Japan,Sour,Lotte Koume,0.629215
+687,404,1,Japan,Salty,Senbei,0.4413995
+687,405,5,Japan,Bitter,Bitter Almond Kitkat,0.06988272
+279,401,5,Japan,Spicy,Habanero chips ,0.29624864
+279,402,2,Japan,Sweet,Tohato Caramel,0.7880188
+279,403,2,Japan,Sour,Lotte Koume,0.80112743
+279,404,2,Japan,Salty,Senbei,0.72943175
+279,405,4,Japan,Bitter,Bitter Almond Kitkat,0.063584596
+319,401,2,Japan,Spicy,Habanero chips ,0.019308865
+319,402,3,Japan,Sweet,Tohato Caramel,0.061012
+319,403,1,Japan,Sour,Lotte Koume,0.024479777
+319,404,1,Japan,Salty,Senbei,0.52985
+319,405,5,Japan,Bitter,Bitter Almond Kitkat,0.6257161
+234,401,4,Japan,Spicy,Habanero chips ,0.108157724
+234,402,1,Japan,Sweet,Tohato Caramel,0.27648452
+234,403,3,Japan,Sour,Lotte Koume,0.26891553
+234,404,1,Japan,Salty,Senbei,0.67840314
+234,405,1,Japan,Bitter,Bitter Almond Kitkat,0.66512454
+900,401,2,Japan,Spicy,Habanero chips ,0.6428826
+900,402,1,Japan,Sweet,Tohato Caramel,0.505709
+900,403,5,Japan,Sour,Lotte Koume,0.4885452
+900,404,3,Japan,Salty,Senbei,0.4279604
+900,405,2,Japan,Bitter,Bitter Almond Kitkat,0.68682706
+132,401,2,Japan,Spicy,Habanero chips ,0.70505744
+132,402,2,Japan,Sweet,Tohato Caramel,0.59186494
+132,403,4,Japan,Sour,Lotte Koume,0.48659003
+132,404,5,Japan,Salty,Senbei,0.498583
+132,405,3,Japan,Bitter,Bitter Almond Kitkat,0.20161769
+911,401,1,Japan,Spicy,Habanero chips ,0.38377318
+911,402,2,Japan,Sweet,Tohato Caramel,0.0774675
+911,403,3,Japan,Sour,Lotte Koume,0.3545677
+911,404,3,Japan,Salty,Senbei,0.6563504
+911,405,3,Japan,Bitter,Bitter Almond Kitkat,0.76589227
+768,401,5,Japan,Spicy,Habanero chips ,0.3327018
+768,402,1,Japan,Sweet,Tohato Caramel,0.3595161
+768,403,2,Japan,Sour,Lotte Koume,0.43478554
+768,404,1,Japan,Salty,Senbei,0.5208184
+768,405,3,Japan,Bitter,Bitter Almond Kitkat,0.6211041
+392,401,5,Japan,Spicy,Habanero chips ,0.4480817
+392,402,1,Japan,Sweet,Tohato Caramel,0.35686553
+392,403,5,Japan,Sour,Lotte Koume,0.3294284
+392,404,4,Japan,Salty,Senbei,0.61978245
+392,405,5,Japan,Bitter,Bitter Almond Kitkat,0.6949069
+986,401,4,Japan,Spicy,Habanero chips ,0.66047674
+986,402,2,Japan,Sweet,Tohato Caramel,0.71061707
+986,403,4,Japan,Sour,Lotte Koume,0.50334144
+986,404,1,Japan,Salty,Senbei,0.17151314
+986,405,5,Japan,Bitter,Bitter Almond Kitkat,0.45633483
+715,401,5,Japan,Spicy,Habanero chips ,0.6306748
+715,402,4,Japan,Sweet,Tohato Caramel,0.52864987
+715,403,1,Japan,Sour,Lotte Koume,0.45471698
+715,404,3,Japan,Salty,Senbei,0.29676116
+715,405,3,Japan,Bitter,Bitter Almond Kitkat,0.7775205
+3,401,4,Japan,Spicy,Habanero chips ,0.7856636
+3,402,4,Japan,Sweet,Tohato Caramel,0.2322748
+3,403,4,Japan,Sour,Lotte Koume,0.8288684
+3,404,4,Japan,Salty,Senbei,0.46355993
+3,405,2,Japan,Bitter,Bitter Almond Kitkat,0.22003442
+307,401,1,Japan,Spicy,Habanero chips ,0.47152308
+307,402,1,Japan,Sweet,Tohato Caramel,0.8305234
+307,403,2,Japan,Sour,Lotte Koume,0.59935033
+307,404,4,Japan,Salty,Senbei,0.438967
+307,405,2,Japan,Bitter,Bitter Almond Kitkat,0.87399304
+554,401,4,Japan,Spicy,Habanero chips ,0.454793
+554,402,3,Japan,Sweet,Tohato Caramel,0.22996432
+554,403,2,Japan,Sour,Lotte Koume,0.33027703
+554,404,4,Japan,Salty,Senbei,0.12675092
+554,405,4,Japan,Bitter,Bitter Almond Kitkat,0.41665128
+345,401,1,Japan,Spicy,Habanero chips ,0.09817311
+345,402,5,Japan,Sweet,Tohato Caramel,0.55573815
+345,403,3,Japan,Sour,Lotte Koume,0.31049946
+345,404,5,Japan,Salty,Senbei,0.35204977
+345,405,5,Japan,Bitter,Bitter Almond Kitkat,0.16884202
+551,401,4,Japan,Spicy,Habanero chips ,0.5742158
+551,402,4,Japan,Sweet,Tohato Caramel,0.34887522
+551,403,1,Japan,Sour,Lotte Koume,0.68105245
+551,404,3,Japan,Salty,Senbei,0.35261136
+551,405,1,Japan,Bitter,Bitter Almond Kitkat,0.26249322
+966,401,2,Japan,Spicy,Habanero chips ,0.15672201
+966,402,1,Japan,Sweet,Tohato Caramel,0.32989663
+966,403,3,Japan,Sour,Lotte Koume,0.31349766
+966,404,2,Japan,Salty,Senbei,0.6039217
+966,405,1,Japan,Bitter,Bitter Almond Kitkat,0.7324782
+604,401,4,Japan,Spicy,Habanero chips ,0.065276
+604,402,2,Japan,Sweet,Tohato Caramel,0.50264996
+604,403,2,Japan,Sour,Lotte Koume,0.6114124
+604,404,1,Japan,Salty,Senbei,0.6785042
+604,405,5,Japan,Bitter,Bitter Almond Kitkat,0.5162052
+346,401,5,Japan,Spicy,Habanero chips ,0.4844215
+346,402,1,Japan,Sweet,Tohato Caramel,0.62547183
+346,403,1,Japan,Sour,Lotte Koume,0.168852
+346,404,4,Japan,Salty,Senbei,0.28284943
+346,405,3,Japan,Bitter,Bitter Almond Kitkat,0.16413626
+163,401,1,Japan,Spicy,Habanero chips ,0.7517645
+163,402,4,Japan,Sweet,Tohato Caramel,0.38941714
+163,403,2,Japan,Sour,Lotte Koume,0.34160012
+163,404,1,Japan,Salty,Senbei,0.4140106
+163,405,5,Japan,Bitter,Bitter Almond Kitkat,0.19622675
+325,401,5,Japan,Spicy,Habanero chips ,0.82999855
+325,402,2,Japan,Sweet,Tohato Caramel,0.31755847
+325,403,4,Japan,Sour,Lotte Koume,0.6951317
+325,404,1,Japan,Salty,Senbei,0.33703756
+325,405,3,Japan,Bitter,Bitter Almond Kitkat,0.48997545
+715,401,1,Japan,Spicy,Habanero chips ,0.76308614
+715,402,5,Japan,Sweet,Tohato Caramel,0.013537318
+715,403,4,Japan,Sour,Lotte Koume,0.091431946
+715,404,4,Japan,Salty,Senbei,0.004409075
+715,405,1,Japan,Bitter,Bitter Almond Kitkat,0.00901401
+167,401,4,Japan,Spicy,Habanero chips ,0.7772234
+167,402,5,Japan,Sweet,Tohato Caramel,0.3375328
+167,403,2,Japan,Sour,Lotte Koume,0.39682668
+167,404,1,Japan,Salty,Senbei,0.23543811
+167,405,3,Japan,Bitter,Bitter Almond Kitkat,0.7307614
+906,401,1,Japan,Spicy,Habanero chips ,0.48551288
+906,402,4,Japan,Sweet,Tohato Caramel,0.33902758
+906,403,3,Japan,Sour,Lotte Koume,0.004417867
+906,404,5,Japan,Salty,Senbei,0.12845376
+906,405,5,Japan,Bitter,Bitter Almond Kitkat,0.063527286
+792,401,1,Japan,Spicy,Habanero chips ,0.7568228
+792,402,5,Japan,Sweet,Tohato Caramel,0.100670904
+792,403,2,Japan,Sour,Lotte Koume,0.74358743
+792,404,3,Japan,Salty,Senbei,0.6008373
+792,405,2,Japan,Bitter,Bitter Almond Kitkat,0.81991935
+333,401,2,Japan,Spicy,Habanero chips ,0.28512248
+333,402,5,Japan,Sweet,Tohato Caramel,0.85223293
+333,403,3,Japan,Sour,Lotte Koume,0.20058706
+333,404,3,Japan,Salty,Senbei,0.83935046
+333,405,4,Japan,Bitter,Bitter Almond Kitkat,0.79336774
+182,401,3,Japan,Spicy,Habanero chips ,0.74658877
+182,402,2,Japan,Sweet,Tohato Caramel,0.7461086
+182,403,5,Japan,Sour,Lotte Koume,0.6711211
+182,404,5,Japan,Salty,Senbei,0.40940648
+182,405,5,Japan,Bitter,Bitter Almond Kitkat,0.7822866
+1000,401,3,Japan,Spicy,Habanero chips ,0.50688595
+1000,402,4,Japan,Sweet,Tohato Caramel,0.2861122
+1000,403,3,Japan,Sour,Lotte Koume,0.42321342
+1000,404,4,Japan,Salty,Senbei,0.43758327
+1000,405,2,Japan,Bitter,Bitter Almond Kitkat,0.7334603
+618,401,4,Japan,Spicy,Habanero chips ,0.7900583
+618,402,5,Japan,Sweet,Tohato Caramel,0.2547924
+618,403,1,Japan,Sour,Lotte Koume,0.1056284
+618,404,5,Japan,Salty,Senbei,0.070141196
+618,405,3,Japan,Bitter,Bitter Almond Kitkat,0.6157084
+431,401,3,Japan,Spicy,Habanero chips ,0.73927605
+431,402,3,Japan,Sweet,Tohato Caramel,0.31300697
+431,403,5,Japan,Sour,Lotte Koume,0.26803625
+431,404,2,Japan,Salty,Senbei,0.23024273
+431,405,3,Japan,Bitter,Bitter Almond Kitkat,0.7616594
+507,401,2,Japan,Spicy,Habanero chips ,0.11289522
+507,402,4,Japan,Sweet,Tohato Caramel,0.5468442
+507,403,5,Japan,Sour,Lotte Koume,0.30992165
+507,404,3,Japan,Salty,Senbei,0.7755028
+507,405,2,Japan,Bitter,Bitter Almond Kitkat,0.75950766
+839,401,3,Japan,Spicy,Habanero chips ,0.54828054
+839,402,2,Japan,Sweet,Tohato Caramel,0.39979622
+839,403,5,Japan,Sour,Lotte Koume,0.7123524
+839,404,3,Japan,Salty,Senbei,0.6886412
+839,405,4,Japan,Bitter,Bitter Almond Kitkat,0.23673213
