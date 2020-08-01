@@ -23,3 +23,7 @@ https://docs.google.com/document/d/1SKxlI6y-X65zH0lmVIVqLOL_kvD5cUYwJsmW4FJhymc/
 #### CLAAT Link
 https://codelabs-preview.appspot.com/?file_id=17eNMDqSmghdf-Fq4rKjazl2In8refahJ6sLwHXJ2_Ds
 
+### Assignment 4 - Recommendation System
+
+#### CLAAT Link
+https://codelabs-preview.appspot.com/?file_id=1M6xhA8zgyiUENIBwdv9W5Z5ya89shhp1Ha27zDs31uU#0
