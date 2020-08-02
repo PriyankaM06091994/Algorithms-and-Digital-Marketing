@@ -15,6 +15,8 @@ https://codelabs-preview.appspot.com/?file_id=1M6xhA8zgyiUENIBwdv9W5Z5ya89shhp1H
 
 ### Objectives
 
+![Untitled Diagram (2) (1)](https://user-images.githubusercontent.com/59594174/89115596-1c95a080-d458-11ea-9af4-5f11cff66b15.jpg)
+
 Who- For a custom snack shipping company called Universal Yums, which only has an online presence and wants to differentiate themselves with their superior recommendation system
 
 What- To prototype, build, evaluate and deploy a recommendation system
