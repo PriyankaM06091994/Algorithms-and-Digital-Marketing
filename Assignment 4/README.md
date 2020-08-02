@@ -34,22 +34,24 @@ How- To implement machine learning Models and use technologies like Streamlit, F
 ## Bayesian Personalized Ranking
 Matrix factorization algorithm for predicting item ranking with implicit feedback
 
+![BPR Workflow](https://user-images.githubusercontent.com/59594174/89115615-74cca280-d458-11ea-9b2b-51b377af686e.jpg)
+
 ### Introduction
 1. User Feedback are drawn from different channels.
 Eg: clicks, likes, listens, follows, purchases, comments etc
 
 2. We propose BPR algorithm to exploit different types of feedback.
+
 3. The available observations are only positive feedback where the non-observed ones are a mixture of real negative feedback and missing values.
 
 ### How it Works?
-1. When doing matrix factorization for implicit feedback data (users' clicks, view times), we start with a user-item matrix, R where R is nonzero elements of the matrix are the user's interaction with the items.
+1. When doing matrix factorization for implicit feedback data (users' clicks, view times), we start with a user-item matrix R where R is nonzero elements of the matrix and U are the user's interaction with the items.
 
 R=U×V
 
-2. Matrix factorization assumes that:
+2. Matrix factorization assumes that: Each user can be described by d features.
 
-3. Each user can be described by d features
-4. For example, feature 1 might be a referring to how much each user likes Indian Snacks. Each item, snacks in this case, can be described by an analogous set of d features. To correspond to the above example, feature 1 for the snack might be a number that says how close the snack is to a Indian Snack.
+3. For example, feature 1 might be referring to how much each user likes Indian Snacks. Each item, snacks in this case, can be described by an analogous set of d features. To correspond to the above example, feature 1 for the snack might be a number that says how close the snack is to a Indian Snack.
 
 ### Formulation
 
@@ -74,10 +76,12 @@ R=U×V
 1. Singular value decomposition (SVD) is one of the most popular algorithms to factorize a matrix
 2. First step is to find similar users or items
 3. The second step is to predict the ratings of the items that are not yet rated by a user
-4. The similarity is calculated based on ratings of similar users
+4. The similarity is calculated based on the ratings of similar users
 5. The Surprise is a Python SciKit that comes with various recommender algorithms and similarity metrics to make it easy to build and analyze recommenders
 6. Surprise supports data frames as long as they have three columns representing the user ids, item ids, and the ratings (in this order)
-7. We start by splitting our data into the train set and testset with the python_random_split function
-8. We can call predict to get some predictions. predict returns an internal object Prediction which can be easily converted back to a data frame
+7. We start by splitting our data into the train set and test set with the python_random_split function
+8. We can call predict to get some predictions. Predict returns an internal object Prediction which can be easily converted back to a data frame
+
+![Recommendation Systems](https://user-images.githubusercontent.com/59594174/89115681-194ee480-d459-11ea-865a-791d4a3b2db3.png)
 
 
