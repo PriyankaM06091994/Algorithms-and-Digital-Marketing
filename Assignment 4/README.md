@@ -29,17 +29,17 @@ How- To implement machine learning Models and use technologies like Streamlit, F
 
 ## Machine Learning Models
 
-##Bayesian Personalized Ranking
+## Bayesian Personalized Ranking
 Matrix factorization algorithm for predicting item ranking with implicit feedback
 
-###Introduction
+### Introduction
 1. User Feedback are drawn from different channels.
 Eg: clicks, likes, listens, follows, purchases, comments etc
 
 2. We propose BPR algorithm to exploit different types of feedback.
 3. The available observations are only positive feedback where the non-observed ones are a mixture of real negative feedback and missing values.
 
-###How it Works?
+### How it Works?
 1. When doing matrix factorization for implicit feedback data (users' clicks, view times), we start with a user-item matrix, R where R is nonzero elements of the matrix are the user's interaction with the items.
 
 R=U×V
@@ -49,7 +49,7 @@ R=U×V
 3. Each user can be described by d features
 4. For example, feature 1 might be a referring to how much each user likes Indian Snacks. Each item, snacks in this case, can be described by an analogous set of d features. To correspond to the above example, feature 1 for the snack might be a number that says how close the snack is to a Indian Snack.
 
-###Formulation
+### Formulation
 
 1. Suppose ‘u' is the set of all the users and ‘i' is the set of all the items
 2. Our goal is to provide ‘u' with personalized ranking denoted by > u
@@ -60,14 +60,14 @@ R=U×V
 7. And, we will denote this generally by i > j where i stands for positive item and j stands for negative item
 8. For items that the user has both interacted with, we cannot infer any preference. The same is true for two items that a user has not interacted yet
 
-##Singular Value Decomposition (SVD)
+## Singular Value Decomposition (SVD)
 
 1. Surprise Singular Value Decomposition (SVD) model is a collaborative filtering algorithm that can be used for training a matrix factorization model, which predicts explicit or implicit ratings of users on items for recommendations.
 2. SVD algorithm was specifically designed to predict ratings as close as possible to their actual values.
 3. SVD mainly functions with two variables: user and the item. Depending upon the item's rated by user SVD will make the recommendation for the next time
 4. It works by searching a large group of people and finding a smaller set of users with tastes similar to a particular user. It looks at the items they like and combines them to create a ranked list of suggestions.
 
-###Steps Involved in implementing the algorithm:
+### Steps Involved in implementing the algorithm:
 
 1. Singular value decomposition (SVD) is one of the most popular algorithms to factorize a matrix
 2. First step is to find similar users or items
