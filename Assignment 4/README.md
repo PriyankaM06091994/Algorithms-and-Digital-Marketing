@@ -86,7 +86,11 @@ R=U×V
 
 ## Fast API
 
+Fast API - BPR
+
 ![BPR_85_101_FastAPI](https://user-images.githubusercontent.com/59594174/89115696-4ac7b000-d459-11ea-86d4-052118c196c9.PNG)
+
+Fast API - SVD
 
 ![FastAPI_SVD](https://user-images.githubusercontent.com/59594174/89115699-4e5b3700-d459-11ea-800e-c7a9308892e4.PNG)
 
@@ -101,7 +105,6 @@ Validation
 
 
 ## Streamlit - SVD Method
-
 
 ![Streamlit](https://user-images.githubusercontent.com/59594174/89115746-bd389000-d459-11ea-9f0c-a05321407e44.PNG)
 
