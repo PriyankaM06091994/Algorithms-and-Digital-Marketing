@@ -84,4 +84,35 @@ R=U×V
 
 ![Recommendation Systems](https://user-images.githubusercontent.com/59594174/89115681-194ee480-d459-11ea-865a-791d4a3b2db3.png)
 
+## Fast API
+
+![BPR_85_101_FastAPI](https://user-images.githubusercontent.com/59594174/89115696-4ac7b000-d459-11ea-86d4-052118c196c9.PNG)
+
+![FastAPI_SVD](https://user-images.githubusercontent.com/59594174/89115699-4e5b3700-d459-11ea-800e-c7a9308892e4.PNG)
+
+
+## Flask - BPR Method
+
+![Flask](https://user-images.githubusercontent.com/59594174/89115725-895d6a80-d459-11ea-85b9-2ee071d86169.PNG)
+
+Validation
+
+![Validation](https://user-images.githubusercontent.com/59594174/89115729-90847880-d459-11ea-86f2-8239e25ec0a4.PNG)
+
+
+## Streamlit - SVD Method
+
+
+![Streamlit](https://user-images.githubusercontent.com/59594174/89115746-bd389000-d459-11ea-9f0c-a05321407e44.PNG)
+
+## Jmeter
+
+### BPR
+
+![Jmeter_85_3_ResponseGraph](https://user-images.githubusercontent.com/59594174/89115766-f6710000-d459-11ea-8959-8001ffa8f818.PNG)
+
+### SVD
+
+
+
 
