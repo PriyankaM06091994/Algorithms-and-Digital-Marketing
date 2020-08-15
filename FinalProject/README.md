@@ -106,7 +106,7 @@ https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
 
 #### Link: http://ec2-34-232-80-5.compute-1.amazonaws.com/
 
-![Arch](https://user-images.githubusercontent.com/59594174/90303537-b3ad2000-de7c-11ea-9103-b20faf030ea6.jpg)
+![AWS](https://user-images.githubusercontent.com/59594174/90303881-1e138f80-de80-11ea-97d0-8a399b3d408a.PNG)
 
 #### Login Page
 
