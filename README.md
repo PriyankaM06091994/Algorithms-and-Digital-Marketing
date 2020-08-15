@@ -36,3 +36,8 @@ https://codelabs-preview.appspot.com/?file_id=1qQg917U5y5VOFoz0VM7FSg5U4LDEGfhcF
 
 #### AWS Deployment Link
 http://ec2-34-232-80-5.compute-1.amazonaws.com/
+
+#### Login Details to try our application:
+
+Username : admim
+Password : admin
