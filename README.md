@@ -9,6 +9,11 @@
 | Priyanka Malpekar |   001302741     |
 |   Jui Ashinkar    |   001443824     |
 
+### Mini Assignment
+
+#### CLAAT Link
+https://codelabs-preview.appspot.com/?file_id=1fWtwx_O7squ8Cnl023uBwXxO_anP90ZFf7ZR0OaFUfM
+
 ### Assignment 1 - Instacart Analysis
 
 #### CLAAT Link
