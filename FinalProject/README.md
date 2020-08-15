@@ -11,7 +11,7 @@
 #### CLAAT Link
 https://codelabs-preview.appspot.com/?file_id=1qQg917U5y5VOFoz0VM7FSg5U4LDEGfhcFjfkbkntNz0#0
 
-#### Objectives
+## Objectives
 
 
 Who -Amazon's E-commerce department who have a large customer base using different recommendation systems to provide suggestions to the customers.
@@ -26,9 +26,9 @@ Where - This project will help Business Analyst, Pricing Specialist and Business
 
 How - Using tools like XSV,Trifacta,Salesforce Einstein Analytics, Python, Streamlit, Flask,FastAPI, JMeter
 
-#### Use Cases
+## Use Cases
 
-#### Dataset
+## Dataset
 
 The Dataset to perform exploratory analysis and build a recommendation system is taken from UCSD and Kaggle open source datasets:
 
@@ -36,14 +36,8 @@ http://jmcauley.ucsd.edu/data/amazon/
 
 https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
 
-#### Dataset
-The Dataset to perform exploratory analysis and build a recommendation system is taken from UCSD and Kaggle open source datasets:
 
-http://jmcauley.ucsd.edu/data/amazon/
-
-https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
-
-#### Pandas Profiling
+## Pandas Profiling
 
 Links:
 
