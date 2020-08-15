@@ -130,6 +130,7 @@ https://drive.google.com/file/d/1gw9BFgbXqWKiYvtNZvOHFyiBIGbY9Cd8/view?usp=shari
 
 #### Jmeter Dashboard
 
-![Amazon](https://user-images.githubusercontent.com/59594174/90303641-857c1000-de7d-11ea-8401-c9922dbed537.png)
+![pasted image 0 (7)](https://user-images.githubusercontent.com/59594174/90303676-d855c780-de7d-11ea-8a9a-686096dad466.png)
+
 
 
