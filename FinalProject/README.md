@@ -47,3 +47,6 @@ https://drive.google.com/file/d/1Gx-_buu8PYCof6m-tm2BxTqkVoJbhvCq/view?usp=shari
 
 https://drive.google.com/file/d/1gw9BFgbXqWKiYvtNZvOHFyiBIGbY9Cd8/view?usp=sharing
 
+## What algorithmic marketing services are they using?
+
+![Screen Shot 2020-05-14 at 2 41 08 PM](https://user-images.githubusercontent.com/59594174/90303230-5617d400-de7a-11ea-9f5c-859fc002a272.png)
