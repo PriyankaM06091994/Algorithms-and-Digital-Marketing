@@ -104,13 +104,10 @@ https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
 
 ## Deployment on AWS
 
-#### Link: http://ec2-34-232-80-5.compute-1.amazonaws.com/
+### Link: http://ec2-34-232-80-5.compute-1.amazonaws.com/
 
 ![AWS](https://user-images.githubusercontent.com/59594174/90303881-1e138f80-de80-11ea-97d0-8a399b3d408a.PNG)
 
-#### Login Page
-
-![pasted image 0 (5)](https://user-images.githubusercontent.com/59594174/90303566-f838bb80-de7c-11ea-999d-427be9fb33d5.png)
 
 ## Architecture
 
