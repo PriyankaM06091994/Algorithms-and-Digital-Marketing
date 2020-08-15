@@ -47,20 +47,18 @@ http://jmcauley.ucsd.edu/data/amazon/
 https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
 
 
-## Pandas Profiling
-
-#### Links:
-
-https://drive.google.com/file/d/1QdqwvMKAn6kVBuHp8mFXT-O7memO_kSs/view?usp=sharing
-
-https://drive.google.com/file/d/1Gx-_buu8PYCof6m-tm2BxTqkVoJbhvCq/view?usp=sharing
-
-https://drive.google.com/file/d/1gw9BFgbXqWKiYvtNZvOHFyiBIGbY9Cd8/view?usp=sharing
-
-
 ## Recommendation and Search
 
 ![ELASTIC](https://user-images.githubusercontent.com/59594174/90303345-48af1980-de7b-11ea-8b20-b95390559857.jpg)
+
+#### Recommendation Using KNN
+
+1. The k-nearest neighbors algorithm is based around the simple idea of predicting unknown values by matching them with the most similar known values.
+
+2. The principle behind nearest neighbor classification consists in finding a predefined number, i.e. the 'k' - of training samples closest in distance to a new sample, which has to be classified.
+
+![pasted image 0 (8)](https://user-images.githubusercontent.com/59594174/90303807-4484fb00-de7f-11ea-8c4f-031c1e2f64cb.png)
+
 
 ## REST API + FLASK
 
