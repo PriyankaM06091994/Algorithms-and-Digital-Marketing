@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% block content %}
+<video class="video" autoPlay loop muted style="width: 100%" >
+    <source src={{ url_for('static', filename="my.mp4") }} type="video/mp4">
+</video>
+    <div class="container" style="width:600px">
+        <div class="max-w-sm mx-auto my-24 bg-white px-5 py-10 rounded shadow-xl card-box" style="padding: 80px;border-right: 18px; position: absolute;
+    z-index: 1;
+    top: 300px;">
+            <div class="text-center mb-8">
+                <h1 class="font-bold text-2xl font-bold">Welcome to SmartCart.</h1>
+                <img src="https://image.flaticon.com/icons/svg/262/262316.svg" height="100"/>
+            </div>
+            <form action="#">
+                <div class="mt-5">
+                    <label for="username">Username or Email</label>
+                    <input
+                            type="text"
+                            id="username"
+                            class="block w-full p-2  form-control"
+                    />
+                </div>
+                <div class="mt-5">
+                    <label for="password">Password</label>
+                    <input
+                            type="password"
+                            id="password"
+                            class="block w-full p-2  form-control"
+                    />
+                </div>
+                <div class="mt-10" style="display: flex;justify-content: center">
+                    <a
+                            onclick="login_process()"
+                            type="submit"
+                            value="Login"
+                            class="btn btn-primary"
+                            style="background-color: burlywood !important;margin-top: 10px;"
+                    >Submit</a>
+                </div>
+                   </form>
+        </div>
+    </div>
+
+
+<script>
+
+    function login_process() {
+
+        var password = $("#password").val()
+        var username = $("#username").val()
+
+        if(password.length <= 1)
+        {
+            toastr.error('Password cannot be empty');
+
+        }
+
+        if(username.length <= 1)
+        {
+            toastr.error('Username cannot be empty');
+
+        }
+
+        if(username === "admin" && password === "admin")
+        {
+            toastr.success('Welcome Admin ');
+            window.location.href = "/shopping";
+        }else{
+
+            toastr.error('Invalid Username ');
+
+        }
+
+    }
+
+
+
+
+
+</script>
+
+{% endblock %}
+

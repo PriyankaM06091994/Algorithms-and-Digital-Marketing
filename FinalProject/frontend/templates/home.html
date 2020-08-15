@@ -1,0 +1,459 @@
+{% extends "base.html" %}
+{% block content %}
+
+
+<style>
+    .loading {
+        display: flex;
+        justify-content: center;
+        margin-top: 300px;
+    }
+
+    .circle {
+        width: 10px;
+        height: 10px;
+        background-color: white;
+        border-radius: 50%;
+        margin: 3px;
+        animation: jump 0.5s ease-in infinite;
+    }
+
+    .circle:nth-of-type(1) {
+        background-color: rgb(20, 101, 106);
+    }
+
+    .circle:nth-of-type(2) {
+        animation-delay: 0.1s;
+        background-color: rgb(250, 114, 104);
+    }
+
+    .circle:nth-of-type(3) {
+        animation-delay: 0.2s;
+        background-color: rgb(148, 219, 223);
+    }
+
+    @keyframes jump {
+        0% {
+            transform: translateY(0);
+        }
+        50% {
+            transform: translateY(-10px);
+        }
+    }
+
+    .search-container {
+        background-color: #FFF;
+        position: relative;
+        padding: 3px 50px 3px 10px;
+    }
+    .search-box {
+        background-color: transparent;
+        outline: none;
+        height: 35px;
+        font-size: 15px;
+        border: 0;
+        width: 100%;
+    }
+    .search-button {
+        position: absolute;
+        right: 4px;
+        top: 4px;
+        background-color: #C00;
+        border-radius: 50%;
+        border: 0;
+        color: #FFF;
+        width: 35px;
+        height: 35px;
+        outline: 0;
+    }
+
+    .jumbotron{
+        background-size: 100%;
+        background-color: #BCAC9B;
+    }
+    .hor-items{
+        height: 50%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        overflow-x: auto;
+    }
+    .btn-primary{
+        border: none !important;
+        background-color: none !important;
+    }
+
+    .result{
+        visibility: hidden;
+    }
+    .searchbox{
+        position: relative;
+
+        height: 40px;
+        width: 400px;
+        margin: 50px auto;
+        overflow: hidden;
+
+        border-bottom: 2px solid #fff;
+        background: none;
+        color: #fff;
+
+        perspective: 1800px;
+        perspective-origin: 40% 40%;
+        transform-style: preserve-3d;
+
+        transition: all 0.4s cubic-bezier(.25, .8, .25, 1);
+    --active{
+         color: #000;
+     }
+
+    :after{
+         position: absolute;
+         content: "";
+     // z-index: 1;
+
+         width: 100%;
+         height: 100%;
+         top: 20px;
+         left: 0px;
+
+         transform: rotateX(90deg);
+         background: #fff;
+
+         transition: all 0.4s cubic-bezier(.25, .8, .25, 1);
+     }
+
+
+
+    --active:after{
+         top: 0px;
+         left: 0px;
+
+         transform: rotateX(0deg);
+     }
+
+    input{
+        position: absolute;
+        z-index: 1;
+
+        height: 100%;
+        width: 100%;
+
+        padding-left: 8px;
+        padding-right: 44px;
+
+        border: none;
+        font-size: 1em;
+        color: inherit;
+        background: none;
+    }
+
+    .card-body > jumbotron{
+
+    }
+</style>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="/resources/demos/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+
+<div style="height:auto;">
+
+            <div class="searchbox" style="display: flex; margin-top: 20px; width: 60vw;" >
+                    <input  name="search"  class="search-box" placeholder="Enter Product Name" id="source" style="width:70vw;border-bottom:1px solid black;"/>
+                    <div id="result" style="visibility: hidden"></div>
+                    <button onclick="btn_submit()" type="button" class="btn btn-primary" style="background-color: burlywood !important;color: #FFFFFF !important; margin-left: 50px">Search</button>
+            </div>
+
+            <div class="mywelcome" id="welcome-message row" style="display: flex;justify-content: center;">
+                <div class="row">
+                    <div class="col-8">
+                            <h2 style="margin-top: 20px;">Begin by searching something</h2>
+                    </div>
+                    <div class="col-4">
+                        <img src="https://image.flaticon.com/icons/svg/489/489156.svg" class="icon-img" height="100"/>
+                    </div>
+                </div>
+
+
+                <section class="loading" style="position: relative; left: -260px; visibility: hidden;">
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                </section>
+            </div>
+
+            <div class="row" style="margin-top: 30px; background-color: #BCAC9B; min-height:650px;display: grid;justify-content: center">
+
+                {%  raw  %}
+                            <div  id="product-data" style="display: grid; padding-top: 50px;"></div>
+
+                            <script id="product-template" type="text/x-handlebars-template">
+                                    <div class="wrapper" style="display: flex; width: 100%;flex-wrap: wrap; align-items: center">
+                                            {{#each this  }}
+                                                    <div onclick="card_clicked('{{this._id}}')" class="card" style="margin: 15px; max-width: 500px; background-color: #FFFFFF !important">
+                                                        <div class="card-body">
+                                                            <div class="jumbotron jumbotron-fluid" style=" background-color: #FFFFFF; !important;">
+                                                                <div class="container">
+                                                                    <span class="badge badge-primary bg-danger">Best Match</span>
+                                                                    <i id="view-{{this._id}}"></i>
+                                                                    <h5 class="display-4" style="font-weight: 200">{{this._source.name}}</h5>
+                                                                    <img class="card-img" src="{{this._source.imageURLs.[0]}}" alt="Vans" style="width: 60%">
+                                                                    <p class="lead"> {{this._source.categories}}</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            {{/each}}
+                                        </div>
+                             </script>
+                {%  endraw    %}
+            </div>
+            <br/> <br/>
+            <div class="row" style="margin-top: 30px;background-color: #FFFFFF !important;min-height:650px;display: grid;justify-content: center">
+                {%  raw  %}
+                <div id="product-similar-data" style="justify-content: center; padding-top: 50px;"></div>
+                <script id="product-similar-template" type="text/x-handlebars-template">
+
+                    <h1 style="color: black; text-align: center;justify-content: center;display: flex;">Similar Product you Might like </h1>
+                    <br/>
+                    <br/>
+
+                    <div class="wrapper" style="display: grid;grid-template-columns: 1fr 1fr 1fr;justify-content: center">
+
+                        {{#each this  }}
+                                <div onclick="card_clicked('{{this._id}}')" class="card" style="margin: 15px; max-width: 500px; background-color: #FFFFFF !important;border: 1px solid black;">
+                                    <div class="card-body">
+                                        <div class="jumbotron jumbotron-fluid" style=" background-color:#FFFFFF !important;">
+                                            <div class="container">
+                                                <span class="badge badge-primary bg-danger">Suggested Product</span>
+                                                <i id='view-{{this._id}}'></i>
+                                                <h5 class="display-4" style="font-weight: 200">{{this._source.name}}</h5>
+                                                <img class="card-img" src="{{this._source.imageURLs.[0]}}" alt="Vans" style="width: 60%">
+                                                <p class="lead"> {{this._source.categories}}</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                        {{/each}}
+                    </div>
+
+                </script>
+                {%  endraw    %}
+            </div>
+            <br/> <br/> <br/> <br/>
+</div>
+
+
+<script>
+
+    const $source = document.querySelector('#source');
+    const $result = document.querySelector('#result');
+
+    const typeHandler = function(e) {
+        $result.innerHTML = e.target.value;
+        $.ajax({
+            url: "/pipe",
+            type : 'POST',
+            cache: false,
+            data:{'data': e.target.value},
+            success: function(html)
+            {
+
+                console.log(html);
+
+                var data = html.aggregations.auto_complete.buckets
+                var _ = []
+
+                $.each(data, (index, value)=>{
+                    _.push(value.key)
+                });
+
+
+                $( "#source" ).autocomplete({
+                    source: _
+                });
+            }
+        });
+    }
+
+    $source.addEventListener('input', typeHandler) // register for oninput
+    $source.addEventListener('propertychange', typeHandler) // for IE8
+
+    Handlebars.registerHelper('toJSON', function(obj) {
+        return JSON.stringify(obj, null, 3);
+    });
+
+
+    function card_clicked(id)
+    {
+        var myid = "#view-" + id
+        localStorage.setItem(myid ,'fa fa-eye');
+        $(myid).addClass("fa fa-eye");
+
+    }
+
+
+    function btn_submit()
+    {
+        sessionStorage.setItem('title', $("#source").val() );
+        var search_val = $("#source").val()
+
+        $("#welcome").remove()
+        $(".loading").show();
+        $(".loading").css('visibility', 'visible');
+        $(".mywelcome").css('visibility', 'hidden');
+
+        $.ajax({
+            url: "/search",
+            type : 'POST',
+            cache: false,
+            data:{
+                'what': search_val
+            },
+            success: function(data)
+            {
+
+
+                // Product you searched for
+                var templateScript = Handlebars.compile($('#product-template').html());
+                $('#product-data').html(templateScript(data.result.hits.hits));
+
+
+                var templateScript = Handlebars.compile($('#product-similar-template').html());
+                $('#product-similar-data').html(templateScript(data.similar.hits.hits));
+
+
+                $(".loading").hide();
+                $(".loading").css('visibility', 'hidden');
+
+
+                $.each(data.result.hits.hits, (index, val)=>{
+                    var myid = "#view-"+val._id;
+
+                    try{
+                        var value = localStorage.getItem(myid);
+                            if(value.includes("fa fa-eye"))
+                            {
+                                $(myid).addClass("fa fa-eye");
+
+                            }
+                    }catch (e) {
+                    }
+                })
+
+
+
+
+                $.each(data.similar.hits.hits, (index, val)=>{
+                    var myid = "#view-"+val._id;
+
+                    try{
+                        var value = localStorage.getItem(myid);
+
+                        if(value.includes("fa fa-eye"))
+                        {
+                            $(myid).addClass("fa fa-eye");
+
+                        }
+                    }catch (e) {
+                    }
+                })
+
+
+
+            }
+        });
+    }
+
+    $( document ).ready(function() {
+        var data = sessionStorage.getItem('title')
+        $("#source").val(data);
+    });
+
+    Handlebars.registerHelper('facets_round_numbers', function (data) {
+        if (!data) return '';
+        var value = parseInt(data);
+        var ret = value;
+
+        if (value > 10000) ret = (Math.round(value / 1000) * 1000);
+        if (value > 1000) ret = (Math.round(value / 100) * 100);
+        else if (value > 10) ret = (Math.round(value / 10) * 10);
+
+        var tem = null;
+
+        if (ret <= 10)
+        {
+            tem = '1-9'
+        };
+
+        if (ret >= 11 && ret <= 99)
+        {
+            tem = '10-99'
+        }
+
+        if (ret >= 100 && ret <= 500)
+        {
+            tem = '100-499'
+        }
+        if (ret >= 500)
+        {
+            tem = '500+'
+        }
+        return tem;
+    });
+
+    Handlebars.registerHelper('int_format', function (data) {
+        if (!data) return '';
+        return parseInt(data);
+    });
+
+    Handlebars.registerHelper('if_cond', function (v1, operator, v2, options) {
+
+        switch (operator) {
+            case '==':
+                return (v1 == v2) ? options.fn(this) : options.inverse(this);
+            case '===':
+                return (v1 === v2) ? options.fn(this) : options.inverse(this);
+            case '!=':
+                return (v1 != v2) ? options.fn(this) : options.inverse(this);
+            case '!==':
+                return (v1 !== v2) ? options.fn(this) : options.inverse(this);
+            case '<':
+                return (v1 < v2) ? options.fn(this) : options.inverse(this);
+            case '<=':
+                return (v1 <= v2) ? options.fn(this) : options.inverse(this);
+            case '>':
+                return (v1 > v2) ? options.fn(this) : options.inverse(this);
+            case '>=':
+                return (v1 >= v2) ? options.fn(this) : options.inverse(this);
+            case '&&':
+                return (v1 && v2) ? options.fn(this) : options.inverse(this);
+            case '||':
+                return (v1 || v2) ? options.fn(this) : options.inverse(this);
+            default:
+                return options.inverse(this);
+        }
+    });
+
+    Handlebars.registerHelper('if_eq', function (a, b, opts) {
+        if (a == b)
+            return opts.fn(this);
+        else
+            return opts.inverse(this);
+    });
+
+
+</script>
+{% endblock %}
+
