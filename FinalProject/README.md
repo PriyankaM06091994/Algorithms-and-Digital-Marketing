@@ -27,3 +27,29 @@ Where - This project will help Business Analyst, Pricing Specialist and Business
 How - Using tools like XSV,Trifacta,Salesforce Einstein Analytics, Python, Streamlit, Flask,FastAPI, JMeter
 
 #### Use Cases
+
+#### Dataset
+
+The Dataset to perform exploratory analysis and build a recommendation system is taken from UCSD and Kaggle open source datasets:
+
+http://jmcauley.ucsd.edu/data/amazon/
+
+https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
+
+#### Dataset
+The Dataset to perform exploratory analysis and build a recommendation system is taken from UCSD and Kaggle open source datasets:
+
+http://jmcauley.ucsd.edu/data/amazon/
+
+https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
+
+#### Pandas Profiling
+
+Links:
+
+https://drive.google.com/file/d/1QdqwvMKAn6kVBuHp8mFXT-O7memO_kSs/view?usp=sharing
+
+https://drive.google.com/file/d/1Gx-_buu8PYCof6m-tm2BxTqkVoJbhvCq/view?usp=sharing
+
+https://drive.google.com/file/d/1gw9BFgbXqWKiYvtNZvOHFyiBIGbY9Cd8/view?usp=sharing
+
