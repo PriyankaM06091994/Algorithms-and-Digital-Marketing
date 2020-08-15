@@ -26,6 +26,10 @@ Where - This project will help Business Analyst, Pricing Specialist and Business
 
 How - Using tools like XSV,Trifacta,Salesforce Einstein Analytics, Python, Streamlit, Flask,FastAPI, JMeter
 
+## What algorithmic marketing services are they using?
+
+![Screen Shot 2020-05-14 at 2 41 08 PM](https://user-images.githubusercontent.com/59594174/90303230-5617d400-de7a-11ea-9f5c-859fc002a272.png)
+
 ## Implementation
 
 ![amazon](https://user-images.githubusercontent.com/59594174/90303255-86f80900-de7a-11ea-8eaa-59b0c92bef48.jpg)
@@ -53,9 +57,62 @@ https://drive.google.com/file/d/1Gx-_buu8PYCof6m-tm2BxTqkVoJbhvCq/view?usp=shari
 
 https://drive.google.com/file/d/1gw9BFgbXqWKiYvtNZvOHFyiBIGbY9Cd8/view?usp=sharing
 
-## What algorithmic marketing services are they using?
 
-![Screen Shot 2020-05-14 at 2 41 08 PM](https://user-images.githubusercontent.com/59594174/90303230-5617d400-de7a-11ea-9f5c-859fc002a272.png)
+## Recommendation and Search
+
+![ELASTIC](https://user-images.githubusercontent.com/59594174/90303345-48af1980-de7b-11ea-8b20-b95390559857.jpg)
+
+## REST API + FLASK
+
+#### Login Page
+
+![pasted image 0](https://user-images.githubusercontent.com/59594174/90303372-814ef300-de7b-11ea-9bf2-f79e87b9c1a4.png)
+
+#### Search and Recommendation
+
+![pasted image 0 (1)](https://user-images.githubusercontent.com/59594174/90303412-c541f800-de7b-11ea-8ceb-613467de1542.png)
+
+#### Searched Products
+
+![unnamed](https://user-images.githubusercontent.com/59594174/90303423-db4fb880-de7b-11ea-91eb-073cf6ee346f.png)
+
+#### Recommended Products
+
+![pasted image 0 (2)](https://user-images.githubusercontent.com/59594174/90303433-e99dd480-de7b-11ea-86b1-7b4cf30e149a.png)
+
+
+## Load Testing Using JMeter
+
+#### BytesThroughputOverTime
+
+![pasted image 0 (3)](https://user-images.githubusercontent.com/59594174/90303456-1f42bd80-de7c-11ea-9695-dfe0d71028e1.png)
+
+#### LatenciesOverTime
+
+![pasted image 0 (4)](https://user-images.githubusercontent.com/59594174/90303468-3b465f00-de7c-11ea-820c-9a3207d0deb9.png)
+
+#### Response Time over Time
+
+![ResponseTimesOverTime](https://user-images.githubusercontent.com/59594174/90303484-587b2d80-de7c-11ea-8de5-16ba6a626642.png)
+
+#### Response Time Graph for 300 Users
+
+![ResponseTimeGraph_300Users](https://user-images.githubusercontent.com/59594174/90303493-65981c80-de7c-11ea-89a2-8787c1921483.PNG)
+
+#### Response Time Graph for 800 Users
+
+![ResponseTimeGraph_800Users](https://user-images.githubusercontent.com/59594174/90303510-83658180-de7c-11ea-9833-e181d9e3ca27.PNG)
+
+
+## Deployment on AWS
+
+#### Link: http://ec2-34-232-80-5.compute-1.amazonaws.com/
+
+![Arch](https://user-images.githubusercontent.com/59594174/90303537-b3ad2000-de7c-11ea-9103-b20faf030ea6.jpg)
+
+#### Login Page
+
+![pasted image 0 (5)](https://user-images.githubusercontent.com/59594174/90303566-f838bb80-de7c-11ea-999d-427be9fb33d5.png)
 
 
 
