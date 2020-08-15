@@ -114,6 +114,22 @@ https://drive.google.com/file/d/1gw9BFgbXqWKiYvtNZvOHFyiBIGbY9Cd8/view?usp=shari
 
 ![pasted image 0 (5)](https://user-images.githubusercontent.com/59594174/90303566-f838bb80-de7c-11ea-999d-427be9fb33d5.png)
 
+## Architecture
 
+![Screen Shot 2020-08-14 at 10 11 48 PM](https://user-images.githubusercontent.com/59594174/90303583-261e0000-de7d-11ea-8932-8b7e68e9f457.png)
+
+## Dashboards
+
+#### PowerBI Dashboard
+
+![pasted image 0 (6)](https://user-images.githubusercontent.com/59594174/90303605-4ea5fa00-de7d-11ea-9027-52009ca517c6.png)
+
+#### Einstein Analytics Dashboards
+
+![Amazon](https://user-images.githubusercontent.com/59594174/90303620-68474180-de7d-11ea-8d35-dc9377244240.png)
+
+#### Jmeter Dashboard
+
+![Amazon](https://user-images.githubusercontent.com/59594174/90303641-857c1000-de7d-11ea-8401-c9922dbed537.png)
 
 
