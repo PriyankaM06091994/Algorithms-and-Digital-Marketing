@@ -33,3 +33,6 @@ https://codelabs-preview.appspot.com/?file_id=1M6xhA8zgyiUENIBwdv9W5Z5ya89shhp1H
 
 #### CLAAT Link
 https://codelabs-preview.appspot.com/?file_id=1qQg917U5y5VOFoz0VM7FSg5U4LDEGfhcFjfkbkntNz0#0
+
+#### AWS Deployment Link
+http://ec2-34-232-80-5.compute-1.amazonaws.com/
