@@ -124,9 +124,14 @@ https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
 
 #### PowerBI Dashboard
 
+Link:
+https://app.powerbi.com/groups/me/reports/94423266-5e87-4398-bcc5-ded1ffdb0566/ReportSection6b0679177157ca1e384a?accessrequestuseroid=84432f7f-9e47-45b2-b760-e4b30b80b0e0
+
 ![pasted image 0 (6)](https://user-images.githubusercontent.com/59594174/90303605-4ea5fa00-de7d-11ea-9027-52009ca517c6.png)
 
 #### Einstein Analytics Dashboards
+
+Link: https://na172.salesforce.com/analytics/wave/application?assetId=00l5w000002yjVtAAI&orgId=00D5w000007OSaF&loginHost=na172.salesforce.com&urlType=sharing
 
 ![Amazon](https://user-images.githubusercontent.com/59594174/90303620-68474180-de7d-11ea-8d35-dc9377244240.png)
 
